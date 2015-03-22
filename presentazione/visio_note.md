@@ -30,6 +30,8 @@ Inno al ritorno.
 
 - L'immagine e la parola. Che cosa significa "illuminar"?
 
+- Il cielo del sole è il cielo dell'Aritmetica; il cielo del sole è il cielo dell'invisibile - l'occhio umano non può contemplare direttamente il sole, ma esso serve a contemplare qualsiasi altra cosa. Il sole penetra ogni altra arte; ma il sole non può essere visto direttamente.
+
 - - -
 
 ###Purgatorio XI - 73-99
@@ -83,26 +85,36 @@ Inno al ritorno.
 ###Paradiso XIV 67-90 - Ascensione al cielo di Marte
 
 > Ed ecco intorno, di chiarezza pari,  
-nascere un lustro sopra quel che v'era,   
-per guisa d'orizzonte che rischiari.  
-E sì come al salir di prima sera  
-comincian per lo ciel nove parvenze,  
-sì che la vista pare e non par vera,  
-parvemi lì novelle sussistenze  
-cominciare a vedere, e fare un giro  
-di fuor da l'altre due circonferenze.  
-Oh vero sfavillar del Santo Spiro!  
-come si fece sùbito e candente  
-a li occhi miei che, vinti, nol soffriro!  
-Ma Bëatrice sì bella e ridente
-mi si mostrò, che tra quelle vedute
-si vuol lasciar che non seguir la mente.
-Quindi ripreser li occhi miei virtute
-a rilevarsi; e vidimi translato
-sol con mia donna in più alta salute.
-Ben m'accors' io ch'io era più levato,
-per l'affocato riso de la stella,
-che mi parea più roggio che l'usato.
-Con tutto 'l core e con quella favella
-ch'è una in tutti, a Dio feci olocausto,
-qual conveniesi a la grazia novella.
+> nascere un lustro sopra quel che v'era,  
+> per guisa d'orizzonte che rischiari.  
+> E sì come al salir di prima sera  
+> comincian per lo ciel nove parvenze,  
+> sì che la vista pare e non par vera,  
+> parvemi lì novelle sussistenze  
+> cominciare a vedere, e fare un giro  
+> di fuor da l'altre due circonferenze.  
+> Oh vero sfavillar del Santo Spiro!  
+> come si fece sùbito e candente  
+> a li occhi miei che, vinti, nol soffriro!  
+> Ma Bëatrice sì bella e ridente  
+> mi si mostrò, che tra quelle vedute  
+> si vuol lasciar che non seguir la mente.  
+> Quindi ripreser li occhi miei virtute  
+> a rilevarsi; e vidimi translato  
+> sol con mia donna in più alta salute.  
+> Ben m'accors' io ch'io era più levato,  
+> per l'affocato riso de la stella,  
+> che mi parea più roggio che l'usato.  
+> Con tutto 'l core e con quella favella  
+> ch'è una in tutti, a Dio feci olocausto,  
+> qual conveniesi a la grazia novella.  
+
+##Convivio 2.IX
+
+Poi appresso, ad iscusa di sé dico che si volge tutto lo mio pensiero, cioè l'anima, de la quale dico _questa affannata_, e parla contra gli occhi; e questo si manifesta quivi: _De li occhi miei dice questa affannata_. E dico ch'ella dice di loro e contra loro tre cose. La prima è che bestemmia l'ora che questa donna li vide. E qui si vuol sapere che avvegna che più cose ne l'occhio a un'ora possano venire, veramente quella che viene per retta linea ne la punta de la pupilla, quella veramente si vede, e ne la immaginativa si suggella solamente. E questo è però che 'l nervo per lo quale corre lo spirito visivo, è diritto a quella parte; e però veramente l'occhio l'altro occhio non può guardare, sì che esso non sia veduto da lui; ché, sì come quello che mira riceve la forma ne la pupilla per retta linea, così per quella medesima linea la sua forma se ne va in quello ch'ello mira: e molte volte, nel dirizzare di questa linea, discocca l'arco di colui al quale ogni arme e leggiere. Però quando dico che _tal donna li vide_, è tanto a dire quanto che li occhi suoi e li miei si guardaro.
+
+##Convivio 3.IX
+
+Dico: _Tu sai che 'l ciel sempr'è lucente e chiaro, cioè sempr'è con chiaritade; ma per alcuna cagione alcuna volta è licito dire quello essere tenebroso. Dove è da sapere che, propriamente, è visibile lo colore e la luce, sì come Aristotile vuole nel secondo de l'Anima, e nel libro del Senso e Sensato. Ben è altra cosa visibile, ma non propriamente, però che [anche] altro senso sente quello, sì che non si può dire che sia propriamente visibile, né propriamente tangibile; sì come lo è la figura, la grandezza, lo numero, lo movimento e lo stare fermo, che sensibili [comuni] si chiamano: le quali cose con più sensi comprendiamo. Ma lo colore e la luce sono propriamente; perché solo col viso comprendiamo ciò, e non con altro senso. Queste cose visibli, sì le proprie come le comuni in quanto sono visibili, vengono dentro a l'occhio - non dico le cose, ma le forme loro - per mezzo diafano, non realmente ma intenzionalmente, sì come in vetro transparente. E ne l'acqua ch'è ne la pupilla de l'occhio, questo discorso, che fa la forma visibile per lo mezzo, sì si compie, perché quell'acqua è terminata - quasi come specchio, che è vetro terminato con piombo -, sì che passar più non può, ma quivi, a modo d'una palla, percossa si ferma; sì che la forma, che nel mezzo transparente non pare, [ne l'acqua pare] lucida e terminata. E questo è quello per che nel vetro piombato la imagine appare, e non in altro. Di questa pupilla lo spirito visivo, che si continua ...
+
+
