@@ -1,4 +1,85 @@
-##__MLA__, _Il Paradigma Intellettuale_
+##Letture
+
+- __Freccero__, John: _Dante: the poetics of conversion_ - Stacks: __PQ4390 .F82 1986__
+
+- __Harrison__, Robert P.: _The Body of Beatrice_ - Stacks: __PQ4310.V4 H37 1988__
+
+- __Ardizzone__, MLA, Dante and Heterodoxy - Stacks: __PQ4332 .D26 2014g__
+
+- __Ardizzone__, MLA, _Guido Cavalcanti: l'altro Medioevo_ - Stacks: __PQ4299.C2 A8415 2006g__
+
+##__MLA__, _Il Paradigma Intellettuale
+
+###Recensione di Federica Anichini
+
+1. __Introduzione__
+
+	- La __transumptio__ è la figura retorica sostanziale; per mezzo di essa si stabilisce una relazione transustanziale tra il mondo sublunare e l'ente supremo della poesia di Dante.
+
+		- Nota: il mondo sublunare è probabilmente quello secolare e terrestre.
+
+	- Si stabilisce un rapporto tra:
+
+		- Giovanni Battista, la voce gridata (__vox__) e Cavalcanti;
+
+		- Gesù Cristo, la voce interiore (_verbum_) e Dante stesso.
+
+	- Ciò accade, pare, tra il capitolo __XV__ e il __XVI__ della __Vita Nova__.
+
+	- La conclusione è che l'essenza umana è linguistica, dunque intellettuale; attraverso la sua essenza intellettuale l'essere umano può partecipare del divino.
+
+2. Capitoli __1__ e __2__
+
+	- Analisi di _Donne ch'avete intelletto d'amore_. Il genere della __lode__ si collega a una tradizione platonica e cristiana.
+
+		- La __lode__ è intesa come metodo di connessione tra l'umano e il divino.
+
+		- La __lode__ è un dialogo mentale (un discorso mentale) analogo a quello prodotto dagli angeli (intelligenze?) nel momento in cui essi contemplano la mente di Dio.
+
+			- Che cos'è questa _contemplazione_?
+
+	- La lode è dunque trasferita dal divino all'umano, dalla contemplazione divina alla contemplazione di Beatrice (dall'Empireo alle strade di Firenze). La lode (metodo teologico) è impiegata per descrivere l'umano e il terreno (il _sublunare_).
+
+3. Capitoli __3__ e __4__
+
+	- Analisi di _Voi che 'ntendendo il terzo ciel movete_ e di _Amor che nella mente mi ragiona_.
+
+	- Tensione intellettuale; si torna all'analisi del linguaggio interiore (_verbum intus prolatum_) come mezzo per rivolgersi alle intelligenze.
+
+		- Le fonti sono il __Liber de Causis__ e i commenti di Tommaso d'Aquino, Alberto Magno, Sigieri di Brabante.
+
+	- _Voi che 'ntendendo il terzo ciel movete_ è una riflessione sul contrasto tra _memoria_ e _visione intellettuale_.
+
+	- _Amor che nella mente mi ragiona_ è una riflessione sulla capacità di conoscere dell'essere umano (conoscenza umana - _human knowledge_) e sull'amore come relazione tra la mente e la donna.
+
+		- La lirica riflette, perciò, sulla facoltà di comprendere _sostanze separate_ (concetto cruciale, tuttavia poco chiaro).
+
+			- Che le sostanze separate siano tutto ciò che non può essere conosciuto direttamente, ma solo attraverso un discorso linguistico e cognitivo complesso come quello della lode (della _transumptio_, dell'ottica flessa)?
+
+4. __Conclusione__
+
+	- La speculazione umana (il rapporto tra _amore_ e _conoscenza_, l'amore che è conoscenza o che si fa conoscenza) diviene motore della stroria; diviene una possibilità di cambiamento civile (sociale, politico); si introducono, forse, concetti propri del _De Monarchia_.
+
+	- L'opera di Dante non è enciclopedia; è un __laboratorio__ di idee che non convergono per necessità.
+
+
+###Recensione di Laurie Shepard
+
+- La premessa è che tra la _Vita Nova_ e il _Convivio_ avvenga il consolidamento della lingua della poesia d'amore volgare (_vernacular love poetry_) come lingua dell'intellezione umana (_human intellection_); il volgare usato per scrivere liriche d'amore è scomposto - o consolidato - al fine di determinare una lingua che possa essere impiegata per la speculazione filosofica.
+
+- La nozione agostiniana di "parola interiore" è implicita nella lettura di tutte le canzoni analizzate nel volume.
+
+- Immaginazione: dalla facoltà aristotelica dell'anima sensitiva (visione? immaginazione?) a visione interiore di matrice cristiana e neoplatonica.
+
+- Problema stilistico: lo _stile della lode_ come metodo.
+
+- Conclusione: la _sostanza separata_.
+
+- - -
+
+###Lettura individuale
+
+- Imperativo primo: __capire come funziona questo libro__.
 
 - La _lode_ unisce l'amore per _Beatrice_ (__VN__) e l'amore per la donna del _Convivio_.
 
@@ -45,14 +126,5 @@
 
 - La nozione di _transumere_ come trasferimento da ciò che è __detto__ (volgare, terreno, umano) a ciò che è __intelletto__ (divino, eterno).
 
-> La poesia fu il luogo dove la cultura occidentale, cioè l'intelligentia europea, pose il chiuso e il difficile come canone di bellezza che andava, dunque, decifrato. 
-
-		
-
-##Da trovare
-
-- __Freccero__, John: _Dante: the poetics of conversion_ - Stacks: __PQ4390 .F82 1986__
-
-- __Harrison__, Robert P.: _The Body of Beatrice_ - Stacks: __PQ4310.V4 H37 1988__
-
+> La poesia fu il luogo dove la cultura occidentale, cioè l'intelligentia europea, pose il chiuso e il difficile come canone di bellezza che andava, dunque, decifrato.
 
