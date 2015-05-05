@@ -45,6 +45,19 @@
 		- _Riflessione_.
 
 	- _Paradiso_ come stato mentale di riflessione (_paideia_).
+
+1. Uno schema rappresenta il rapporto tra _intelletto_ e _desiderio_, rapporto mediato dalla _memoria_ (per Aristotele parte dell'anima sensitiva).
+
+	- Fatto fondamentale: è necessario comprendere i meccanismi che regolano le relazioni tra _visione_, _immaginazione_, _comprensione_, _memoria_.
+
+	- Fatto fondamentale: è necesario ricordare, costantemente, che il lavoro del _Paradiso_ è un lavoro di _riproduzione_ successiva ai processi di visione e di comprensione.à
+
+1. L'invasamento di Paradiso 1. Apollo e il valore del dionisiaco; Apollo e il tragico. La necessità di rifarsi a una modalità di sapere distinta; la _mania platonica_. In che modo anche questa è flessione dello sguardo?
+
+1. Fallimento di intelletto e memoria.
+
+1. Poetica dell'__abbaglio__. L'abbaglio è uno dei nodi sostanziali di questo sistema. Uno dei possibili nodi di questo sistema.
+
 - - -
 
 ##Problemi di ordine superiore
