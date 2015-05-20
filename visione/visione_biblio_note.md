@@ -2,6 +2,10 @@
 
 - __Freccero__, John: _Dante: the poetics of conversion_ - Stacks: __PQ4390 .F82 1986__
 
+	1. Beyond the senses and through the senses; what can be accomplished through the sense of sight?
+	2. Riflettere sulla _facoltà imaginativa_.
+	3. The problem of _representing non-representation_, without falling into unintelligibility or silence.
+
 - __Harrison__, Robert P.: _The Body of Beatrice_ - Stacks: __PQ4310.V4 H37 1988__
 
 - __Ardizzone__, MLA, Dante and Heterodoxy - Stacks: __PQ4332 .D26 2014g__
