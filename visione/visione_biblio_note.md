@@ -12,6 +12,26 @@
 
 - __Ardizzone__, MLA, _Guido Cavalcanti: l'altro Medioevo_ - Stacks: __PQ4299.C2 A8415 2006g__
 
+- - -
+
+##Dalla bibliografia di MLA
+
+- __Cook__, E. _‘The Figure of Enigma. Rhetoric, History, Poetry.’_ Rhetorica 19, 4 (2001): pp. 349-78. 
+
+- __Grabmann__, M. _Storia del metodo scolastico_. 2 vols. Florence: La Nuova Italia, 1980
+	
+	- Utile? Troppo grosso?
+
+- Richard __Kay__. Dante’s Christian Astrology. Philadelphia:University of Pennsylvania Press,1994,pp.66-97. 
+
+- Patrick __Boyde__. _“L’esegesi di Dante e la scienza”. Dante e la scienza._ Edited by Patrick Boyde and Vittorio Russo.Ravenna:Longo Editore,1995,pp.9-23
+
+- Giuseppe __Mazzotta__. _“Spettacolo e geometria della giustizia (Paradiso XVIII-XX): L’Europa e l’universalità di Roma.”_ Atti del Convegno internazionale di Studi. Ravenna, 29 novembre 3003,  Ravenna 2004, pp. 59-77.
+
+	- ._”Cosmology and the Kiss of Creation (Paradiso 27-29)”._ Dante Studies, with the Annual Report of the Dante Society,No. 123 (2005), pp. 1-21
+
+- - -
+
 ##__MLA__, _Il Paradigma Intellettuale
 
 ###Recensione di Federica Anichini
