@@ -1,5 +1,7 @@
 ##Letture
 
+##Posseduti
+
 - __Freccero__, John: _Dante: the poetics of conversion_ - Stacks: __PQ4390 .F82 1986__
 
 	1. Beyond the senses and through the senses; what can be accomplished through the sense of sight?
@@ -14,7 +16,11 @@
 
 - - -
 
-##Dalla bibliografia di MLA
+##Da possedere
+
+- __Parronchi__, Alessandro, _Studi su la Dolce Prospettiva_, 1964
+
+###Dalla bibliografia di MLA
 
 - __Cook__, E. _‘The Figure of Enigma. Rhetoric, History, Poetry.’_ Rhetorica 19, 4 (2001): pp. 349-78. 
 

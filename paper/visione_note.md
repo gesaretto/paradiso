@@ -1,12 +1,10 @@
 #Note per "Lo specchio inclinato"
 
-##Compiti - 5 Maggio 2015
+- - -
 
-1. Rileggere gli appunti dell'anno, prendere nota dei momenti rilevanti.
+##Compiti - 22 Maggio 2015
 
-2. Pensare alla bibliografia; cominciare a notare i problemi sostanziali.
-
-3. Scrivere un paio di pagine.
+- Finire di prendere appunti.
 
 - - -
 
@@ -50,13 +48,47 @@
 
 	- Fatto fondamentale: è necessario comprendere i meccanismi che regolano le relazioni tra _visione_, _immaginazione_, _comprensione_, _memoria_.
 
-	- Fatto fondamentale: è necesario ricordare, costantemente, che il lavoro del _Paradiso_ è un lavoro di _riproduzione_ successiva ai processi di visione e di comprensione.à
+	- Fatto fondamentale: è necesario ricordare, costantemente, che il lavoro del _Paradiso_ è un lavoro di _riproduzione_ successiva ai processi di visione e di comprensione.
 
 1. L'invasamento di Paradiso 1. Apollo e il valore del dionisiaco; Apollo e il tragico. La necessità di rifarsi a una modalità di sapere distinta; la _mania platonica_. In che modo anche questa è flessione dello sguardo?
+
+	- Questo è __Paradiso I__.
 
 1. Fallimento di intelletto e memoria.
 
 1. Poetica dell'__abbaglio__. L'abbaglio è uno dei nodi sostanziali di questo sistema. Uno dei possibili nodi di questo sistema.
+
+1. Riassunto dei temi della _Vita Nova_:
+
+	1. "parere" come manifestazione dell'intimità (come __fenomeno__ dell'intimità, dell'interiorità, del _secretum_);
+
+	2. __visione__ ed economia della visione (celestiale e terrestre);
+
+	3. __morte__ e la minaccia costante della fine.
+
+		- __Nota__: queste note potrebbero essere solo mie.
+
+1. La parola __idea__ proviene da __orao__: __io vedo__.
+
+1. Esiste un rapporto tra _grammatica_, _retorica_, e _geometria_? Quale di queste scienze è più fondante?
+
+1. Rapporto tra la __grammatica__ e la fisica delle intelligenze angeliche (la lettura, l'_intelligere_ delle intelligenze angeliche).
+
+1. La fisica deve tendere alla fisica; il rapporto tra il _primo mobile_ e l'_empireo_ è un rapporto misterioso. Un cielo interamente fisico non potrebbe aspirare a un cielo _metafisico_ quale l'Empireo. Esiste, perciò, una tensione tra i due aspetti - tra i due mondi, __fisico__ e __metafisico__, uno spazio liminale di tensione impossibile. Quello che accade su questo sottilissimo bordo è qualcosa di quasi incomprensibile.
+
+1. Breve descrizione del moto celeste, come appare in __Convivio 2.3__.
+
+	1. Dio __vede__ le proprie idee;
+
+	1. Dio produce idee vededo e conoscendo se stesso;
+
+		- Corollario: Dio è l'unico ente che conosce se stesso (in quanto conoscere - tendere a conoscere, vedere per tendere a conoscere - è indistinguibile da ignorare; conoscere come atto pedagogico, come processo attivo, _divenire_, è fatto che si addice soltanto a chi ignora; solo chi ignora può conoscere).
+
+	1. Le idee sono i _modelli perfetti delle cose_ contenuti nella mente di Dio.
+
+1. Nel _De Trinitate_ di Boezio si parla della necessità di creare una scienza puramente __intellettuale__ per comprendere un Dio solamente intellettuale; questa scienza è dissociata da quanto è possibile avvertire a partire dai sensi.
+
+1. Il modo in cui MLA descrive l'ottica: materia che non è più del tutto materia. 
 
 - - -
 

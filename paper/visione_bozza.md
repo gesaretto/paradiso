@@ -1,3 +1,39 @@
+#22 Maggio 2015
+
+##Raccolta di idee per una bozza iniziale
+
+Qual è il problema che desideriamo discutere? Il problema che desideriamo discutere è il rapporto tra ottica e poetica; più precisamente, vogliamo capire in che modo le descrizioni dell'ascensione di Dante nei cieli successivi del Paradiso - della terza cantica - costituiscano anche una dichiarazione di poetica. Vogliamo dunque stabilire un'equivalenza tra la modalità in cui la luce si flette in tali descrizioni e la modalità in cui Dante piega il proprio stile per avvicinare il suo linguaggio a quello dell'inesprimibile.
+
+Che cosa ci serve, dunque, a questo punto? Quali idee vogliamo di preciso esplorare? Innanzitutto, dovremmo capire a quali canti stiamo guardando di preciso, e a quali momenti in quali canti. Questa è un'operazione non irrilevante - l'osservazione ravvicinata di questi canti e di questi passaggi dovrà per necessità costitutire il corpo del nostro lavoro. In secondo luogo, dobbiamo per lo meno definire due idee principali: ottica e retorica. Dobbiamo descrivere come queste funzionano, e in che modo preciso sono legate.
+
+Qual è la mossa sostanziale qui? La mossa è descrivere prima l'ottica, e poi la retorica. Usiamo questo modello questa volta. Prima descriviamo in che modo Dante descrive l'elevazione; poi descriviamo il paradosso scientifico che c'è alla base di questa elevazione, e l'apparente contraddizione rispetto al modello sancito dal _Convivio_. Facciamo passare del tempo parlando dell'ottica; poi passiamo alla retorica.
+
+Come scrivere venticinque pagine a partire da questa singola, semplice idea? Chiaramente sarà necessario stabilire ulteriori conseguenze e arricchire l'analisi con esempi calzanti. Domandarsi la funzione di questa identificazione; suggerire una storia personale e culturale.
+
+###Idee aggiuntive
+
+- Relazione tra __intelletto__, __desiderio__, e __memoria__. In che modo possono essere integrati con la visione?
+
+- Il fenomeno dell'__abbaglio__.
+
+- La prima descrizione del fenomeno, in Paradiso I, avviene nel contesto del _transumanare_ dei mistici e della tradizione dionisiaca. Si tratta solo di questo? Esiste un'evoluzione di quest'immagine che si accompagni a un'evoluzione stilistica e tematica per il poeta del _Paradiso_?
+
+- Il rapporto con il sapere scientifico del _Convivio_; il rapporto con la visione umana della _Vita Nova_. Il rapporto con l'idea di __unità__ nella _Monarchia_ (l'elevazione funziona perché l'uomo, se lasciato a sé stesso, tende spontaneamente verso Dio (__tensione__ verso Dio).
+
+- Visione umana, visione celeste. Che cos'è il __guardare__ degli angeli (intelligere: leggere, guardare, amare le idee nella mente di Dio - tutti gli angeli guardano le idee nella mente di Dio)?
+
+- La trinità come modello di questa stessa visione (guardare al _De Trinitate_ di Agostino?); terzietà, rapporto di amore. Visione è desiderio.
+
+- Le __arti liberali__: che rapporto c'è tra l'ascensione e la __geometria__ (da cui deriva l'ottica?). Triangoli nel cerchio.
+
+- __Processio__ e __reditus__. Visione come descrizione di un processo teologico e intellettuale. L'idea di __restituzione__ è sostanziale (Dante riproduce l'immagine di Beatrice; Beatrice riproduce l'idea di Dante - esse si restituiscono vicendevolmente).
+
+
+- - -
+
+
+- - -
+
 1. Che cosa avviene nel canto 1 del Paradiso.
 
 	- Il modello dell'ascensione per l'intera cantica.
@@ -80,7 +116,7 @@ Vorrei esplorare due diverse implicazioni possibili in questa scelta. Mi domando
 
 La mia domanda è: che cosa vedono gli angeli? E successivamente: come vedono gli angeli? Che rapporto c'è tra _intelligibile_ e _visione_ (intelligere, leggere e vedere).
 
-	- La resistenza rispetto alla visione.
+- La resistenza rispetto alla visione.
 
 - - -
 
