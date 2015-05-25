@@ -63,7 +63,7 @@
 
 > E lo cielo del Sole si può comparare a l'Arismetrica per due proprietadi: l'una si è che del suo lume tutte le l'altre stelle s'informano; l'altra si è che l'occhio nol può mirare. E queste due proprietadi sono ne l'Arismetrica: ché del suo lume tutte s'illuminano le scienze, però che li loro subietti sono tutti sotto alcuno numero considerati, e ne le considerazioni di quelli sempre con numero si procede. [...] L'altra proprietade del Sole ancor si vede nel numero, del quale è l'Arismetrica: che l'occhio de lo 'ntelletto nol può mirare; però che 'l numero, quant'è in sé considerato, è infinito, e questo non potemo noi intendere.
 
- 
+- Il sole diviene qui il simbolo di una tensione metafisica; del visibile che si fa invisibile. La differenza di __intensità__ è un altro fatto rilevante. 
 
 ###Paradiso III
 
@@ -115,6 +115,38 @@
 		- relazione tra __lode__ ed elevazione è qui formulata con chiarezza;
 
 		- presenza dell'__abbaglio__.
+
+###Paradiso IV
+
+- __Beatrice__
+
+> Fé sì Beatrice qual fé Danïello,  
+> Nabuccodonosor levando d'ira,  
+> che l'avea fatto ingiustamente fello;  
+> e disse: «Io veggio ben come ti tira  
+> uno e altro disio, sì che tua cura  
+> sé stessa lega sì che fuor non spira.  
+
+
+- Commenti:
+
+	- __visione e dialogo__:
+
+		- qui la visione è dialogo; qui la visione _sostituisce_ il dialogo.
+
+- __Paradiso come performance__
+
+> D'i Serafin colui che più s'india,  
+> Moïsè, Samuel, e quel Giovanni  
+> che prender vuoli, io dico, non Maria,  
+> non hanno in altro cielo i loro scanni  
+> che questi spirti che mo t'appariro  
+> né hanno a l'esser loro più o meno anni;  
+> ma tutti fanno bello il primo giro,  
+> e differentemente han dolce vita  
+> per sentir più e men l'etterno spiro.  
+> Qui si mostraro, non perché sortita  
+> 
 
 - - -
 

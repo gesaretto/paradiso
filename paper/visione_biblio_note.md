@@ -20,6 +20,10 @@
 
 - __Parronchi__, Alessandro, _Studi su la Dolce Prospettiva_, 1964
 
+- - -
+
+- __Lindberg__, David, _Theories of Vision_
+
 ###Dalla bibliografia di MLA
 
 - __Cook__, E. _‘The Figure of Enigma. Rhetoric, History, Poetry.’_ Rhetorica 19, 4 (2001): pp. 349-78. 

@@ -4,7 +4,7 @@ Qual è il problema che desideriamo discutere? Il problema che desideriamo discu
 
 Che cosa ci serve, dunque, a questo punto? Quali idee vogliamo di preciso esplorare? Innanzitutto, dovremmo capire a quali canti stiamo guardando di preciso, e a quali momenti in quali canti. Questa è un'operazione non irrilevante - l'osservazione ravvicinata di questi canti e di questi passaggi dovrà per necessità costitutire il corpo del nostro lavoro. In secondo luogo, dobbiamo per lo meno definire due idee principali: ottica e retorica. Dobbiamo descrivere come queste funzionano, e in che modo preciso sono legate.
 
-Qual è la mossa sostanziale qui? La mossa è descrivee prima l'ottica, e poi la retorica. Usiamo questo modello questa volta. Prima descriviamo in che modo Dante descrive l'elevazione; poi descriviamo il paradosso scientifico che c'è alla base di questa elevazione, e l'apparente contraddizione rispetto al modello sancito dal _Convivio_. Facciamo passare del tempo parlando dell'ottica; poi passiamo alla retorica.
+Qual è la mossa sostanziale qui? La mossa è descrive prima l'ottica, e poi la retorica. Usiamo questo modello questa volta. Prima descriviamo in che modo Dante descrive l'elevazione; poi descriviamo il paradosso scientifico che c'è alla base di questa elevazione, e l'apparente contraddizione rispetto al modello sancito dal _Convivio_. Facciamo passare del tempo parlando dell'ottica; poi passiamo alla retorica.
 
 
 
