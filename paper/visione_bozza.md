@@ -1,5 +1,3 @@
-#22 Maggio 2015
-
 ##Raccolta di idee per una bozza iniziale
 
 Qual è il problema che desideriamo discutere? Il problema che desideriamo discutere è il rapporto tra ottica e poetica; più precisamente, vogliamo capire in che modo le descrizioni dell'ascensione di Dante nei cieli successivi del Paradiso - della terza cantica - costituiscano anche una dichiarazione di poetica. Vogliamo dunque stabilire un'equivalenza tra la modalità in cui la luce si flette in tali descrizioni e la modalità in cui Dante piega il proprio stile per avvicinare il suo linguaggio a quello dell'inesprimibile.
@@ -7,6 +5,8 @@ Qual è il problema che desideriamo discutere? Il problema che desideriamo discu
 Che cosa ci serve, dunque, a questo punto? Quali idee vogliamo di preciso esplorare? Innanzitutto, dovremmo capire a quali canti stiamo guardando di preciso, e a quali momenti in quali canti. Questa è un'operazione non irrilevante - l'osservazione ravvicinata di questi canti e di questi passaggi dovrà per necessità costitutire il corpo del nostro lavoro. In secondo luogo, dobbiamo per lo meno definire due idee principali: ottica e retorica. Dobbiamo descrivere come queste funzionano, e in che modo preciso sono legate.
 
 Qual è la mossa sostanziale qui? La mossa è descrivere prima l'ottica, e poi la retorica. Usiamo questo modello questa volta. Prima descriviamo in che modo Dante descrive l'elevazione; poi descriviamo il paradosso scientifico che c'è alla base di questa elevazione, e l'apparente contraddizione rispetto al modello sancito dal _Convivio_. Facciamo passare del tempo parlando dell'ottica; poi passiamo alla retorica.
+
+
 
 Come scrivere venticinque pagine a partire da questa singola, semplice idea? Chiaramente sarà necessario stabilire ulteriori conseguenze e arricchire l'analisi con esempi calzanti. Domandarsi la funzione di questa identificazione; suggerire una storia personale e culturale.
 
