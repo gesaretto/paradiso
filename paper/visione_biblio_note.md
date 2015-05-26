@@ -22,7 +22,14 @@
 
 - - -
 
-- __Lindberg__, David, _Theories of Vision_
+- __Lindberg__, David, _Theories of Vision from Al-Kindi to Kepler_, 1981 - The Stacks: __QP475 .L66 1981g__
+
+- - -
+
+- __Alhazen__, optics; Islamic Studies Reading Rm, 602 Butler (Non-Circulating) __QC353 .A3313 1989g__
+
+	- Questo lo possiamo adoperare per introdurre l'idea di __abbaglio__. E forse troveremo, in questo libro, più idee per la corrispondenza tra retorica, _paideia_, e visione.
+
 
 ###Dalla bibliografia di MLA
 

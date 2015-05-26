@@ -1,8 +1,120 @@
 #Note per "Lo specchio inclinato"
 
+##Note per Martedì 26 Maggio (quattro giorni alla scadenza)
+
+- L'__abbaglio__ è in __Vita Nuova__ __XLI 6__.
+
+> Lo mio intelletto non lo puote comprendere; con ciò sia cosa che lo nostro intelletto s'abbia a quelle benedette anime sì come l'occhio debole a lo sole: e ciò lo dice lo Filosofo nel secondo de la metafisica.
+
+- L'__abbaglio__ è nella seconda canzone del _Convivio_
+
+> Elle soverchian lo nostro intelletto,  
+> come raggio di sole un frale viso:  
+> e perch'io non le posso mirar fiso,  
+> mi convien contentar di dirne poco.  
+
+(59-62)
+
+- Notare anche come qui l'__abbaglio__ sia legato alla ___reticenza__ e, dunque, al __silenzio__.
+
+
+- L'__abbaglio__ è un __INEBRIAMENTO DELL'ANIMO__.
+
+> E dico come questo soverchiare è fatto, che è fatto per lo modo che soverchia lo sole fragile viso, non pur lo sano e forte; l'altra [ragione] si è che fissamente in ess[e] guardare non può, perché quivi s'inebria l'anima, sì che incontanente, dopo di sguardare, disvia in ciascuna sua operazione. (Conv. 3.8.14)
+
+- __DECEPTIONES VISUS__ (inganni prospettici, illusioni ottiche) sono un'idea presente in tutta l'opera.
+
+> Veramente più volte appaion cose  
+> che dànno a dubitar falsa matera  
+> per le vere cagion che son nascose.  
+> (Purg. XXII, 28-30)
+
+- Riflettere su questo punto. Che accade in Paradiso? Esistono ancora illusioni ottiche nel Paradiso (si pensi alle macchie lunari)? 
+
+- - -
+
+- Il fatto che Dante operi tra __perspettiva__ e __prospettiva__ sembra assai affascinante.
+
+	- Domanda: Dante poté parlare di __perspettiva__ con Giotto?
+
+- Posta tra __fisica__ e __metafisica__, la __perspectiva__ come __metafisica della luce__ (ma anche __fisica__ della luce - luce divina) è adoperata da Beatrice per spiegare a Dante quali siano i vantaggi dell'__esperienza__ in __Paradiso II__.
+
+- Citazione __sostanziale__ da Parronchi:
+
+> Visione fisica, nel XIII e XIV secolo, mal si distingue da visione spirituale, se non per chi voglia esplicitamente dare alla chiarificazione del senso un valore di certificazione dell'esistente, e quindi di guida alla verità: che può essere ciò che Dante ha imparato dai teorici della _perspectiva_. Ma certo su lui non può non aver fatto presa anche l'intrinsica bellezza connessa con lo studio di questo fenomeno del vedere, in cui senso e anima sembrano toccarsi più che in qualsiasi altro.  
+> Di fatto la _perspectiva_, col soccorso della scienza esatta per eccellenza, la geometria (l'ordine di questa dipendenza è esattamente segnato nel _Convivio_ II xiii 27: «E ancora la Geometria è bianchissima, in quanto è sanza macula d'errore e certissima per sé e per la sua ancella, che si chiama Perspettiva»), attrae l'immaginazione col dare armi razionali a penetrare e a chiarire anche le più speciose e dubbie apparenze. Se mai Dante si rivolga alla Perspettiva, lo farà dunque come a scienza «certissima» e chiarificatrice d'errori.
+(p. 20: il Parronchi spende molto tempo a discutere il modo in cui la _perspettiva_ si ponga di preciso tra interiorità ed oggettività, __visione spirituale__ e __visione fisica__ - contrasto __CRUCIALE!__ -, tra fisica e metafisica)
+
+- Annotiamo anche le pagine 20 e 21. Qui si cita __Ruggero Bacone__, e vi è una precisazione importante a proposito del passaggio riguardo alla vista reciproca introdotto in __Convivio 2 9__ (in che modo vedere è sempre essere visti): si parla di __pupilla__. La visione certa è quella che avviene per __retta linea__ (questo è il problema con cui apriamo il saggio).
+
+- Altra nota __importantissima__: nel _Convivio_ Dante finisce per identificare _sguardo_ e _raggio_! Ovvero - __raggio__ di luce (__proiettato__, emesso) e __sguardo__ (__passivo__, recepito, concepito) divengono la stessa cosa.
+
+- Il trattamento più sostenuto e coerente della __perspettiva__ in _Convivio_ è in 3.10. Qui si spiega come "lo colore e la luce sono propriamente, perché solo col viso comprendiamo ciò, e non con altro senso" (non un passaggio rilevante, probabilmente).
+
+	- Forse ancora marginale: la luce non può essere metafisica perché si propaga __nel tempo__ (dunque, attraverso un corpo diafano essa passa _più rapidamente_, fatto insoddisfacente per Bacone).
+
+- - -
+
+- - -
+
+##Struttura
+
+1. Il manoscritto _Egerton Dante_: completato nella prima metà del 14mo secolo - poco dopo o addirittura poco prima che Dante morisse.
+
+1. L'ascensione verso il sole è colta in un momento particolare - Beatrice guarda verso l'alto, Dante verso Beatrice. I due personaggi sono colti di profilo. La didascalia spiega: "quando Beatrice in sul sinistro fianco vidi rivolta."
+
+1. Il passaggio in Paradiso 1 è più complesso di così.
+
+	- [L'impossibilità dell'uomo di sostenere la vista del sole è una teoria spiegata da __Alhazen__.]
+
+1. Per comprenderne la complessità, sarà forse necessario ricorrere all'opera di Alessandro Parronchi, _Studi sulla Dolce Prospettiva_.
+
+- - -
+
+1. Lo studio di Parronchi si occupa del passaggio dalla _perspettiva_ (scienza legata all'ottica e derivata dalla geometria, che si occupa della modalità in cui la realtà è percepita dall'occhio umano) alla _prospettiva_ ortogonale - la tecnica adoperata per raffigurare solidi e distanze in maniera realistica. Il modo in cui Dante si avvicina a problemi di visione e percezione, a detta del Parronchi, è emblematico di questa transizione. 
+
+1. Dante operò nel momento preciso in cui la __perspettiva__ stava per assimilarsi con la __prospettiva__; ma la differenza era ancora ben chiara ai commentatori che lessero il suo libro una generazione più tardi.
+
+1. Ad esempio, il Parronchi descrive il modo in cui gli antichi commentatori [essi sono Jacopo della Lana e Benvenuto Rambaldi da Imola, entrambi intellettuali del trecento] dl poema compresero un passaggio di Purgatorio XV, nel momento in cui la fronte di Dante è gravata da un forte riflesso, prodotto da un angelo che vola intorno ai due pellegrini. 
+
+	- L'illustrazione di Egerton a questo proposito non è granché interessante.
+
+1. La descrizione di Dante è assai precisa, tanto che i commentatori dell'epoca, spiega il Parronchi, si sentirono in dovere di introdurre la nozione di _prospettiva_ proprio a questo punto.
+
+- - -
+
 1. La terza cantica è una _paideia_. Il processo di comprensione di Dante corrisponde a un progressivo processo di dissoluzione della visione. La visione diviene impossibile - diviene visione dell'impossibile.
 
 1. Ciò avviene attraverso una serie di strumenti concatenati tra loro. L'impossibile è uno di essi; l'abbaglio è un altro.
+
+	- L'abbaglio è precisamente il momento individuato in _Purgatorio XV_ dal Parronchi.
+
+- - -
+
+- __Marginalia?__ Parronchi cita qui _Bruno Nardi_, il quale in una conferenza su _Purgatorio XV_ chiosa di nuovo il fenomeno descritto spiegando che la _perspettiva_ è una scienza descritta nel Convivio (2.3 e 2.13). Dopodiché il Nardi spiega che grazie a essa si era "dimostrata coll'esperienza e col ragionamento la legge elementare dell'ottica, che cioè l'angolo d'incidenza è uguale all'angolo di riflessione, calcolati qui l'uno e l'altro in rapporto alla verticale del piano sul quale il poeta cammina."
+
+- __Marginalia?__ Parronchi spende un po' di tempo parlando degli studi illuminanti di Eva Tea, "studiosa d'arte figurativa." Ella stabilì il modo in cui:
+
+	- i versi di Paradiso III, 14-5 [apparizione degli spiriti nel cielo della luna "Quali per vetri trasparenti e tersi ... tornan d'i nostri visi le postille, | debili sì, che perla in bianca fronte | non vien meno tosto a le nostre pupille], sono in relazione con "l'effetto di bianco su bianco," spiegati nel 28 teorema del IV libro della _Perspectiva_ di Vitellione;
+
+		- come legare questo fenomeno ottico a quanto del cielo della Luna è spiegato in Convivio? E dunque, per estensione, al legame tra __Luna__ e __grammatica__?
+
+	- il passo di Paradiso XXIX 142-5 [metafora con cui è descritta la bontà e la generosità e la grandezza di Dio, il quale riflette la propria luce in un'immensa quantità di specchi, pur restando sempre uno - "Vedi l'eccelso omai e la larghezza | de l'etterno valor, poscia che tanti | speculi fatti s'ha in che si spezza, | uno manendo in sé come davanti.] è in relazione con la _Multiplicatio specierum_ di Bacone (ma è anche nella _Perspectiva_ dello stesso, III 6)
+
+	- Paradiso XIV 58 [i corpi recuperati dalle anime che loro corrispondono, dopo il giudizio universale, saranno più luminosi delle anime stesse, e capaci in ogni caso di sopportare la luce del sole] e Paradiso XXX [] 46-8 si rifanno alla teoria di Alhazen, per cui la visione è dolore.
+
+- __Marginalia?__ Parronchi spiega come la _perspectiva_ sia divenuta una "metafisica della luce" per i "dotti francescani del XIII secolo" (p. 18). Sta citando un volume di __De Bruyne__ _Etudes d'esthétique médiévale_, e uno di __Mazzeo__, _Light metaphysics_.
+	
+	- Metafisica della luce è un concetto che potrebbe essere utile per legare questa _visione_ alla _visione_ che dà moto al primo mobile - il rapporto tra __fisica__ e __metafisica__. La disciplina della _perspectiva_ è __quasi metafisica__.
+
+
+- __Marginalia?__ Alhazen è stato tradotto al latino da __Gerardo da Cremona__ nel XII secolo.
+
+	- Alhazen è poi ripreso da Vitellione (polacco) per la sua _Perspectiva_, versione ordinata verbalmente e razionalmente delle teorie dell'arabo.
+
+- __Marginalia?__ Dopo Alhazen e Vitellione giungiamo a __Ruggero Bacone__.
+
+- - -
 
 1. Questi strumenti ottici - queste flessioni dell'ottica, l'abbaglio e l'impossibile - corrispondono a strumenti retorici.
 
@@ -12,7 +124,7 @@
 
 1. Dante giunge a uno stadio per cui diviene impossibile comprendere oltre con i puri strumenti della ragione. 
 
-1. L'__abbaglio__ indica una momentanea impossibilità di comprendere e di procedere.
+1. L'__abbaglio__ indica una momentanea impossibilità di comprendere e di procedere. [L'impossibilità dell'essere umano di sostenere la visione del sole è in _Alhazen_.]
 
 	1. L'abbaglio corrisponde, per sinestesia, al silenzio (l'abbaglio è l'indicibile).
 
@@ -40,13 +152,27 @@
 
 - - -
 
+1. Il manoscritto _Egerton Dante_ è stato illustrato a Padova, dunque nella stessa città in cui Dante incontrò Giotto.
+
+1. Qui asoperiamo il commentino di _Edgerton_ (non _Egerton_!) a Giotto - il modo in cui il pittore di Bondone adopera pezzi di teatro per costruire un mondo astratto. La stessa cosa che fece Dante. Fine.
+
+- - -
+
 - Fatti da indagare con urgenza:
 
 	- in che modo funziona la visione (come è descritto tutto ciò nel _Convivio_? intendiamo, il rapporto tra _visione_, _immaginazione_, _desiderio_, _memoria_ e così via?
 
+- Una fonte possibile: i _saggi di varia psicologia dantesca_ di Natale Busetto (non esistono in biblio).
+
 - - -
 
 ##Passaggi
+
+###Vita Nuova XLI 6
+
+- __Abbaglio__
+
+> Lo mio intelletto non lo puote comprendere; con ciò sia cosa che lo nostro intelletto s'abbia a quelle benedette anime sì come l'occhio debole a lo sole: e ciò lo dice lo Filosofo nel secondo de la metafisica.
 
 ###Convivio 2.8
 
@@ -64,6 +190,16 @@
 > E lo cielo del Sole si può comparare a l'Arismetrica per due proprietadi: l'una si è che del suo lume tutte le l'altre stelle s'informano; l'altra si è che l'occhio nol può mirare. E queste due proprietadi sono ne l'Arismetrica: ché del suo lume tutte s'illuminano le scienze, però che li loro subietti sono tutti sotto alcuno numero considerati, e ne le considerazioni di quelli sempre con numero si procede. [...] L'altra proprietade del Sole ancor si vede nel numero, del quale è l'Arismetrica: che l'occhio de lo 'ntelletto nol può mirare; però che 'l numero, quant'è in sé considerato, è infinito, e questo non potemo noi intendere.
 
 - Il sole diviene qui il simbolo di una tensione metafisica; del visibile che si fa invisibile. La differenza di __intensità__ è un altro fatto rilevante. 
+
+###Convivio 3.3.13
+
+> E veramente dico; però che li miei pensieri, di costei ragionando, molte fiate voleano cose conchiudere di lei che io non le potea intendere, e smarrivami, sì che quasi parea di fuori alienato: come chi guarda col viso con[tra] una retta linea, prima vede le cose prossime chiaramente; poi, procedendo, meno le vede chiare; poi, più oltre, dubita; poi, massimamente oltre procedendo, lo viso disgiunto nulla vede. (3.3.13) 
+
+###Paradiso 2
+
+- __Esperienza con gli specchi__:
+
+	- Beatrice adopera l'esempio degli specchi per spiegare a Dante l'importanza della visione.
 
 ###Paradiso III
 
@@ -147,6 +283,18 @@
 > per sentir più e men l'etterno spiro.  
 > Qui si mostraro, non perché sortita  
 > 
+
+
+###Paradiso XIV
+
+- __Tremolio delle stelle__ (70-75)
+
+> E sì come al salir di prima sera  
+> comincian per lo ciel nove parvenze,  
+> sì che la vista pare e non par vera,  
+> parvemi lì novelle sussistenze  
+> cominciare a vedere, e fare un giro  
+> di fuor da l'altre due circunferenze.  
 
 - - -
 
