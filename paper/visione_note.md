@@ -57,7 +57,91 @@
 
 - - -
 
-##Note per Martedì 26 Maggio (quattro giorni alla scadenza)
+##Note per Mercoledì 27 Maggio (tre giorni alla scadenza)
+
+- - -
+
+- __Harrison__, the __Body of Beatrice__:
+
+	- Chapter on the _vision_ in _Vita Nuova_ as the vision of Beatrice (19-30);
+
+	- Beatrice as an entity that resists allegory a nude otherness (60-61);
+		
+		- the vision of the __sun__ (the ascension in _Paradiso I_) must also happen through this otherness - Beatrice retaining part of her earthily essence;
+
+			- Beatrice's body is the mystery of another human being;
+
+		- here we have another possible use of the distinction between _phenomenon_ and _noumeno_.
+
+- - -
+
+- __MLA__ su __Cavalcanti__:
+
+	- Dante fa sì che __amore__ e __intelletto__ coincidano nella persona di Beatrice (__pensier__ e __dolcezza__, esperienza sensibile ed esperienza soprasensibile, metafisica); 
+
+	- Beatrice si contrappone __sia__ all'_amore come passione_ che alla _felicità filosofica_;
+
+	- il rapporto con Beatrice è __sia__ razionale che sensibile.
+
+- - -
+
+-__Freccero__:
+
+	- vicinanza del testo dantesco al puro silenzio, all'ineffabile; __la poesia non può mai tacere__ (la poesia non può esprimere il silenzio). L'introduzione al Paradiso (pp. 212 and ff.) riguarda tutta l'idea di __white on white__; l'assunto è che __white on white__ sarebbe puro silenzio (una pagina bianca).
+
+		- questa è un'idea da operare nella parte sull'abbaglio;
+
+	- Freccero fa anche riferimento alle __lettere-luce__ di Paradiso XVIII.
+
+	- il saggio su _the final image_ parla di _paideia_ platonica - "not simply a goal, but rather a development, a shaping or evolution of the human personality" ("Werner Jaeger has shown that when the _morphosis_ of Plato changed its name to _deificatio_, the human _anabasis_ became divine, and Plato's _paideia_ was transmitted to posterity in a new form, as _imitatio Christi_. (250) - the "analogy established by Plato between physical movement and spiritual development" (251); - utilizzare quest'idea, semplicemente - nel saggio finale la _paideia_ è tutta la rotazione terrestre - si tratta di una sovrapposizione di idee platoniche e cristiane (_paideia_ e _imitatio christi_).
+
+		- _paideia_ come coincidenza tra rotazione astrale e sviluppo personale. 
+
+- - -
+
+- __Federica Anichini__ in D. and Heterodoxy
+
+	- il canto X, dove Luna e grammatica sono giustapposte, è un modello per la ricerca linguistica dell'intera cantica.
+
+> The expressive failure alluded to in the course of the third cantica, and clearly formulated in the final lines of Canto XXXIII, signifies an inverse process of linguistic creation. _Paradiso_ III represents an important stage in the production of a language not subjected to the senses, that is, a language not stemming from mental images (by which I mean abstract forms of physical objects). Canto III demonstrates how mental images are no longer part of the pilgrim's experience. By addressing the pilgrim's varying progression from sight and corporeal sensation to vision and imageless direct intuition, the canto describes the pilgrim's struggle to overcome his senses and fully grasp the vision displayed to him. In Augustinian terms, this progression illustrates the advancement of the pilgrim's mind from "visio spiritualis" to "visio intellectualis," from a mode that is knowledge through the imagination, i.e. through forms of physical objects, to one that is knowledge through the intuition of spiritual substances. (23-24)
+
+- Commento:
+	
+	- Federica Anichini ha esplorato il modo in cui questa è anche una ricerca linguistica - punto. Enfasi sull'aspetto della visione. Punto.
+
+> In the metaphor, by indicating the ovals of the faces with the term "postille" (l. 13) Dante turns those faces into pages. Since the text reflects an undifferentiated reality, the blessed faces have no features, that is, they stand for a text whose presence on the page is mere conjecture because only its margins, its "postille," are visible. [...] The language of poetry delivers this intuition by circumscribing it, since it is unable to represent what is by definition imperceptible. Like the pilgrim facing the contours of Piccarda and Costanza's faces, the reader must infer the text from its margins because the language of the canto encompasses its contents, but cannot convey a detailed image. (26)
+
+- Commento:
+
+	- Una buona sintesi di tutto ciò di cui _Anichini_ parla: "the main theme in Canto III, the variance of sensorial images and imageless vision, is repeatedly addressed throughout the lines. This variance is also replicated in grammatical terms, when the terms "concetti" and "affetti" are read, in the context of grammatical theories, as two modes of physical utterance relying respectively on the abstract elaboration of an image and on the absence of an image. (33)
+
+- Commento:
+
+	- In realtà questo è un buon saggio.
+
+> "Affetti" and "concetti" are pivotal elements in the linguistic debate of the twelfth and thirteenth centuries, inasmuch as they are components essential to communication. A contribution to this debate also came from the theoreticians of speculative grammar, who also employed "affectus" and "conceptus" - the former corresponding to an impression, that is, the sign of a passion affecting the soul, the latter to the sign of a mental image - as essential elements in the acknowledgment of the scientific status of grammar. (31)
+
+- Commento finale:
+
+	- Adoperare tutto questo per il passaggio da __ottica__ a __retorica__.
+
+	- Dall'introduzione al volume di MLA (xi) Oscillazione tra "affetti" (cognitive experience of Paradise shaped by _affectus_ or a Paradisiac mode of vision independent from the senses) e "concetti" (a mobile semantic, referred to an earhtly knowledge); the language of Paradise marks the invention of a language of _affetti_, that is, of images deprived of sensorial referents.
+ 
+- - -
+
+- Akbari
+
+	- For Dante himself, however, passage through heaven takes place through reflected vision; not until the end of the _Paradiso_ does he ascend through a direct ray. (165) He ascends through circle to circle by means of the reflected ray seen in Beatrice's eyes (e.g., 4.142): the ray is a kind of rope or ladder allowing Dante to ascend. But, as Beatrice herself warns, 'non pur ne' miei occhi è paradiso' ['not only in my eyes is paradise' (18.21)]; Dante's ascent can be mediated by any of the blessed mirrors in heaven, whether a soul (17.123; 18.2) or an angel (9.61). In addition to the passages where Dante explicitly refers to souls as mirrors, he often calls them 'splendori,' i.e. reflected lights (21.32; 9.13),
+
+- Gran collezione di passaggi qui. "Dante already had been blinded by Beatrice's radiance in the Earthly Paradise (Pg.32.10-12); the same thing happens to him again in paradise when he looks too fixedly upon John (Pa.25.118-21). But in this passage, the other property of divine light - heat - poses a danger to him. The only solution, clearly, is for Dante to become a mirror himself, so that the concentrated ray does not terminate in him. This is exactly what Beatrice goes on to tell him to do: 'Ficca di retro a li occhi tuoi la mente, / e fa di quelli specchi a la figura / che 'n questo specchio ti sarà parvente'
+
+	- Commento: questo sembra un buon testo __introduttivo__ - introduce la modalità dell'ascensione attraverso la visione con chiarezza, ma non introduce, pare, nessuna problematica.
+
+- - -
+
+- __MLA__: usiamo _Il paradigma intellettuale_ per parlare della __lode__ come modalità di ascensione - con essa leghiamo il discorso tra Dante e Beatrice e la modalità in cui le intelligenze angeliche osservano - _intelligono_ - le idee nella mente di Dio. Questo viene prima della conclusione. 
+
+- - -
 
 - Tra __percezione__ e __concezione__: ancora il momento che ci manca; come legare visione fisica e visione spirituale, percezione dell'oggetto e concezione di esso - memoria, desiderio, immaginazione. L'immagine che ---
 
@@ -672,3 +756,131 @@ Per il finale:
 	1. Che cosa sono le _sostanze separate_? Beatrice e Dio sono _sostanze separate_ allo stesso modo, o in modi simili? Possiamo dire che _sostanze separate_ sono tutte quelle che richiedono la mediazione di un discorso indiretto - o complesso - come quello della _lode_, o dell'ottica flessa del _Paradiso_?
 
 	- Sostanze separate sono le intelligenze angeliche e l'aspetto metafisico di Dio.
+
+
+##Raccolta di idee per una bozza iniziale
+
+Qual è il problema che desideriamo discutere? Il problema che desideriamo discutere è il rapporto tra ottica e poetica; più precisamente, vogliamo capire in che modo le descrizioni dell'ascensione di Dante nei cieli successivi del Paradiso - della terza cantica - costituiscano anche una dichiarazione di poetica. Vogliamo dunque stabilire un'equivalenza tra la modalità in cui la luce si flette in tali descrizioni e la modalità in cui Dante piega il proprio stile per avvicinare il suo linguaggio a quello dell'inesprimibile.
+
+Che cosa ci serve, dunque, a questo punto? Quali idee vogliamo di preciso esplorare? Innanzitutto, dovremmo capire a quali canti stiamo guardando di preciso, e a quali momenti in quali canti. Questa è un'operazione non irrilevante - l'osservazione ravvicinata di questi canti e di questi passaggi dovrà per necessità costitutire il corpo del nostro lavoro. In secondo luogo, dobbiamo per lo meno definire due idee principali: ottica e retorica. Dobbiamo descrivere come queste funzionano, e in che modo preciso sono legate.
+
+Qual è la mossa sostanziale qui? La mossa è descrive prima l'ottica, e poi la retorica. Usiamo questo modello questa volta. Prima descriviamo in che modo Dante descrive l'elevazione; poi descriviamo il paradosso scientifico che c'è alla base di questa elevazione, e l'apparente contraddizione rispetto al modello sancito dal _Convivio_. Facciamo passare del tempo parlando dell'ottica; poi passiamo alla retorica.
+
+
+
+Come scrivere venticinque pagine a partire da questa singola, semplice idea? Chiaramente sarà necessario stabilire ulteriori conseguenze e arricchire l'analisi con esempi calzanti. Domandarsi la funzione di questa identificazione; suggerire una storia personale e culturale.
+
+- - -
+
+###Idee aggiuntive
+
+- Relazione tra __intelletto__, __desiderio__, e __memoria__. In che modo possono essere integrati con la visione?
+
+- Il fenomeno dell'__abbaglio__.
+
+- La prima descrizione del fenomeno, in Paradiso I, avviene nel contesto del _transumanare_ dei mistici e della tradizione dionisiaca. Si tratta solo di questo? Esiste un'evoluzione di quest'immagine che si accompagni a un'evoluzione stilistica e tematica per il poeta del _Paradiso_?
+
+- Il rapporto con il sapere scientifico del _Convivio_; il rapporto con la visione umana della _Vita Nova_. Il rapporto con l'idea di __unità__ nella _Monarchia_ (l'elevazione funziona perché l'uomo, se lasciato a sé stesso, tende spontaneamente verso Dio (__tensione__ verso Dio).
+
+- Visione umana, visione celeste. Che cos'è il __guardare__ degli angeli (intelligere: leggere, guardare, amare le idee nella mente di Dio - tutti gli angeli guardano le idee nella mente di Dio)?
+
+- La trinità come modello di questa stessa visione (guardare al _De Trinitate_ di Agostino?); terzietà, rapporto di amore. Visione è desiderio.
+
+- Le __arti liberali__: che rapporto c'è tra l'ascensione e la __geometria__ (da cui deriva l'ottica?). Triangoli nel cerchio.
+
+- __Processio__ e __reditus__. Visione come descrizione di un processo teologico e intellettuale. L'idea di __restituzione__ è sostanziale (Dante riproduce l'immagine di Beatrice; Beatrice riproduce l'idea di Dante - esse si restituiscono vicendevolmente).
+
+
+- - -
+
+1. Che cosa avviene nel canto 1 del Paradiso.
+
+	- Il modello dell'ascensione per l'intera cantica.
+
+		- Che cos'è l'ascensione. Ascensione intellettuale e spirituale; ascensione fisica e metafisica.
+
+		- Risposta alle domande: che cosa vede Dante e in che modo vede Dante?
+
+			- Possibilità: quanta differenza c'è tra l'osservazione di Dante e l'osservazione delle intelligenze angeliche (voi che intendendo il terzo ciel movete)?
+
+			- Che cosa significa intendere. Che cosa significa muovere.
+
+				- Nesso tra visione e movimento. Nesso tra relazione e movimento è la croce.
+
+- - -
+
+1. La mia tesi è che in Dante l'ottica è poetica.
+
+2. L'ottica è poetica; e in particolare è poetica di:
+
+	1. _transumptio_ come metodo retorico (_nominatio_, ecc.);
+
+	2. _mistica_ come modalità conoscitiva.
+
+3. L'ottica è poetica perché tenta di descrivere in che modo possiamo accedere a Dio.
+
+- - -
+
+La mia domanda è: che cosa vedono gli angeli? E successivamente: come vedono gli angeli? Che rapporto c'è tra _intelligibile_ e _visione_ (intelligere, leggere e vedere).
+
+- La resistenza rispetto alla visione.
+
+- - -
+
+In quale modo le parole creano oggetti a cui non servono più parole. Creazioni completamente interiori e visuali, maggiori della capacità espressiva delle espressioni che le hanno generate.
+
+- - -
+
+Stabilire il luogo e il ruolo simbolico e intellettuale della visione nel processo di produzione del sapere; che genere di intelligenza è, o può essere?
+
+- - -
+
+#Lo specchio inclinato
+
+Il moto di Dante e di Beatrice verso il cielo della luna, nei primi versi del Paradiso, è il modello su cui si basa l'ascensione fisica, intellettuale e tematica dell'intera terza cantica. Prima che esso avvenga, come sappiamo, il e poeta e la donna si trovano sulla sommità della montagna del Purgatorio, dove li sorprende il principio dell'alba. Il sole, in questa circostanza chiamato "la lucerna del mondo," comincia a sorgere all'orizzonte dell'emisfero australe, fino a colmare di luce "quasi tutto" il cielo. I versi descrivono allora una complessa sequenza di brevi azioni o fenomeni, rapidi fatti discreti il cui risultato, pressoché inaspettato, è il trasferimento dei due personaggi e della prospettiva del poema all'interno della prima sfera astrale. Per chiarezza, i fatti di cui ci occupiamo sono questi: dapprima Dante osserva Beatrice mentre Beatrice osserva il sole; poi Dante, imitando Beatrice, osserva anch'egli il sole; ma questa visione diventa presto insostenibile, e il sole abbaglia Dante; infine, dunque, Dante osserva di nuovo Beatrice, la quale osserva al contempo il sole e Dante stesso. Questa densa concatenazione narrativa, organizzata in opposizione o in risposta a nozioni scientifiche e a metafore spirituali, è replicata o mutata durante le 
+
+  da preceduta da Dante e Beatrice si trovano sulla sommità della montagna del Purgatorio nel momento il cui il sole comincia a sorgere all'orizzonte dell'emisfero australe
+
+
+Avvengono allora tre fatti consecutivi: Beatrice 
+
+L'ascensione verso il cielo della luna, nel primo canto del Paradiso, è introdotta da una coppia di similitudini complementari. Come sappiamo, il poeta e Beatrice si trovano sulla sommità della montagna del Purgatorio quando "la lucerna del mondo" comincia a sorgere lungo l'orizzonte dell'emisfero australe. Una volta che il cielo si è fatto "quasi tutto [...] bianco," Dante nota che Beatrice ha assunto rispetto a esso un'attitudine definita.
+
+> quando Beatrice in sul sinistro fianco  
+> vidi rivolta e riguardar nel sole:  
+> aquila sì non li s'affisse unquanco.  
+
+Il gesto della donna di "riguardar nel sole" è paragonato a quello di un'aquila, nella tradizione letteraria animale eccezionalmente capace di tollerare la visione abbagliante del corpo luminoso. La corrispondenza tra la facoltà evocata dalla figura retorica e l'esperienza descritta dal testo è certa. Potremmo tuttavia notare un'ambiguità nel suo uso particolare: a quale caratteristica dello sguardo si riferisce il testo quando indica che "aquila sì non li s'affisse unquanco"? Qual è l'esatto criterio per cui la contemplazione di Beatrice risulterebbe addirittura superiore a quella del rapace? Da un lato potremmo intedere questa superiorità come una distinzione quantitativa: Beatrice è in grado di tenere gli occhi fermi nel sole per più tempo rispetto al volatile. Ma una seconda interpretazione, meno scontata, potrebbe offrire implicazioni più produttive. La superiorità potrebbe infatti essere qualitativa: l'azione di _affissare_ gli occhi sarebbe, nel caso di Beatrice, di per sé più difficile, più rigorosa rispetto a quella dell'aquila, indipendentemente dalla sua durata. La donna averebbe fermato le proprie pupille nel centro del cerchio infuocato, con un'esattezza di cui mai animale terrestre è stato capace.
+
+Questa seconda interpretazione risulta, appunto, più coerente col contenuto delle terzine successive. In esse Dante diviene egli stesso osservatore, per quanto la similitudine che lo descrive paia potersi in realtà riferire sia al poeta che ai due diversi oggetti della sua osservazione.
+
+> E si come secondo raggio suole  
+> uscir del primo e risalire in suso,  
+> pur come pelegrin che tornar vuole,  
+> così de l'atto suo, per li occhi infuso  
+> ne l'imagine mia, il mio si fece  
+> e fissi li occhi al sole oltre nostr'uso.  
+
+In questa circostanza l'analogia si fa più densa, meno facilmente ascrivibile al proprio contesto. Ci sono, in effetti, tre elementi della scena descritta a cui il riflesso di questo "secondo raggio," scisso dal "primo" e in apparenza rivolto verso la sua stessa origine, potrebbe assomigliare; si tratta di tre visioni distinte. La prima visione, e la più ovvia, è quella di Dante che osserva Beatrice; "l'atto" della guida, impresso nella "immagine," o "intelligenza formativa" e interiore del poeta, fa sì che egli la imiti. In questo caso il primo raggio è l'aspetto sensibile della donna, che raggiunge la mente di Dante, mentre il secondo raggio, riflesso, è l'atto speculare di Dante che, replicando quanto vede, "torna" figurativamente alla propria sorgente. Al contempo, tuttavia, questa similitudine di luce e riflessi pare evocare anche la visione eseguita da Beatrice stessa, i cui occhi, fermi nel sole, paiono restituire al sole la sua stessa immagine; e dunque anche la successiva visione eseguita da Dante, il quale non fa altro che replicare precisamente il gesto che vede compiere alla donna.
+
+Alla base di questa triplice visione, e della sua corrispondenza con la similitudine precedente, incentrata sull'aquila, è una teoria fisiologica e fisica dell'osservazione umana, che Dante espone in due circostanze, di nuovo complementari, del _Convivio_. La prima è un passaggio del capitolo IX del terzo trattato, in cui l'autore glossa il verso 77 della canzone _Amor che ne la mente mi ragiona_. Le parole della poesia attribuiscono al cielo la proprietà di essere sempre "lucente e chiaro," un'apparente contraddizione rispetto all'evidenza per cui esso è "alcuna volta [...] tenebroso." Il poeta spiega perciò come questa cupezza sia in realtà imputabile all'osservatore e a quanto lo separa dall'oggetto osservato, e non all'oggetto stesso; e tale spiegazione è mediata da alcune considerazioni sull'ottica.
+
+> Queste cose visibili, sì le proprie come le comuni in quanto sono visibili, vengono dentro a l'occhio - non dico le cose, ma le forme loro - per lo mezzo diafano, non realmente ma intenzionalmente, sì quasi come in vetro trasparente. E ne l'acqua ch'è ne la pupilla de l'occhio, questo discorso, che fa la forma visibile per lo mezzo, sì si compie, perché quell'acqua è terminata - quasi come specchio, che è vetro terminato con piombo -, sì che passar più non può, ma quivi, a modo d'una palla, percossa si ferma; sì che la forma, che nel mezzo trasparente non pare, [ne l'acqua pare] lucida e terminata. E questo è quello per che nel vetro piombato la imagine appare, e non in altro. Di questa pupilla lo spirito visivo, che si continua da essa, a la parte del cerebro dinanzi, dov'è la sensibile virtude sì come in principio fontale, subitamente sanza tempo la ripresenta, e così vedemo.
+
+La facoltà visiva dell'uomo è dunque dipendente dalle due caratteristiche accordate alle due diverse componenti qui descritte: il "mezzo diafano" e "l'acqua ch'è ne la pupilla de l'occhio," la quale è "terminata - quasi come specchio, che è vetro terminato con piombo." Così, per mezzo dell'adesione di una superficie trasparente e di una riflettente, le forme sensibili sono trasmessea all'interiorità mentale del soggetto. Si noti come l'esposizione di Dante adoperi la similitudine dello specchio come proprio strumento pedagogico principale: esso è l'unico paragone possibile per la comprensione e per la descrizione di questa capacità sensibile. Ciò spiega perché il raggio riflesso del primo canto del Paradiso possa funzionare come un'analogia per la contemplazione di Beatrice, e non soltanto dell'astro solare: in fondo alla pupilla del poeta vi è uno specchio che restituisce l'apparenza della donna osservata.
+
+Il secondo passaggio sull'ottica nel _Convivio_ introduce invece la modalità con cui questa triplice osservazione è condotta dai soggetti descritti nella scena. Ci troviamo nel capitolo IX del secondo trattato, quando l'autore, glossando il verso 33 della canzone _Voi che 'ntendendo il terzo ciel movete_, ha il compito di illustrare perché, nell'espressione adoperata dall'anima "affannata" per lamentare il momento in cui "li occhi" del poeta furono visti dalla "donna," è implicita una percezione reciproca. 
+
+> E qui si vuol sapere che avvegna che più cose ne l'occhio a un'ora possano venire, veramente quella che viene per retta linea ne la punta de la pupilla, quella veramente si vede, e nella imaginativa si suggella solamente. E questo è però che 'l nervo per lo quale corre lo spirito visivo, è diritto a quella parte; e però veramente l'occhio l'altro occhio non può guardare, sì che esso non sia veduto da lui; ché, si come quello che mira riceve la forma ne la pupilla per retta linea, così per quella medesima linea la sua forma se ne va in quello ch'ello mira: e molte volte, nel drizzare di questa linea, discocca l'arco di colui al quale ogni arme è leggiere. Però quando dico che _tal donna li vide, è tanto a dire quanto che li occhi suoi e li miei si guardaro. (98-99)
+
+La qualità del "riguardar" di Beatrice nel sole, poi imitata da Dante, è superiore a quella dell'aquila proprio per questa ragione: essa disegna una precisa "retta linea" tra il centro del cerchio incandescente e la "punta de la pupilla" della donna. Solo questa disposizione permette il suggellarsi del corpo sensibile "nella immaginativa," attraverso "'l nervo per lo quale corre lo spirito visivo": la stessa impressione menzionata nelle terzine che descrivono la registrazione e la replica dell'atto di Beatrice - "per li occhi infuso | ne l'imagine mia." Ma per comprendere del tutto ale diverse accezioni di questa analogia è necessario indagare ulteriormente il fenomeno in essa descritto. I commentatori hanno tradizionalmente associato alla similitudine un generico esempio di rifrazione, percepibile ogni qual volta una superficie lucida sia posta di fronte a una sorgente luminosa; ma questa resta un'associazione imprecisa. Nel primo capitolo dei suoi "Studi," infatti, Parronchi indica come qui Dante stia in realtà parafrasando un passaggio specifico dell'ottica di Bacone: un raggio di luce riflesso si dirige esattamente verso la propria origine soltanto se il corpo riflettente che lo ripete è posto in posizione perfettamente perpendicolare a essa. Solo così la linea che unisce il centro dello specchio al centro dell'oggetto osservato può dirsi "retta," come quella tracciata dalla pupilla della donna a quella del poeta nel _Convivio_.
+
+Lo specchio con cui termina "l'acqua ch'è ne la pupilla de l'occhio" è dunque sempre esattamente perpendicolare all'oggetto osservato nella scena che apre il Paradiso: così gli occhi di Dante assimilano l'attto di Beatrice, così Beatrice mantiene i propri occhi fermi nel sole più di quanto aquila sia mai stata capace, così Dante stesso volge gli occhi all'astro ed è in grado di contemplarne il bagliore "oltre nostr'uso." Ma questa osservazione perpendicolare non produce, in realtà, l'ascesa evocata dalla figura del "pelegrin che tornar vuole." A differenza da quanto sogliono glossare i commentatori, dunque, non è in questa esperienza di visione diretta, ereditata dalla scienza secolare del _Convivio_, che si consuma il vero _reditus_ del viaggiatore verso la propria patria celeste. Il poeta non riesce infatti a sostenere fino in fondo l'esponenziale intensificazione luminosa provocata dalla salita verso il cielo successivo, quando "parve giorno a giorno | essere aggiunto": la dinamica di quest'osservazione triangolare assume perciò una configurazione diversa.
+
+> Beatrice tutta ne l'etterne rote  
+> fissa con li occhi stava, e in lei  
+> le luci fissi, di la sù rimote.  
+
+La nuova disposizione dei due osservatori, se rapportata alle nozioni descritte nel _Convivio_ e ricordate nelle terzine precedenti, causa un problema interpretativo: in che modo il poeta è capace di tenere le proprie "luci" fisse in quelle della donna, se ella è invece ancora "fissa con li occhi" nel centro delle "etterne rote"? La condizione perché una simile scissione dello sguardo di Beatrice possa verificarsi in questa circostanza è che lo specchio posto in fondo alle sue pupille non sia più perpendicolare rispetto a nessuno dei due oggetti - Dante e il sole -, ma obliquo: è il fenomeno ottico che, sempre per Parronchi, Dante avrebbe richiamato in un'altra sezione del poema, il XV del _Purgatorio_, quando un "angelo benedetto" rifletteva la luce dell'occaso contro "la fronte" del pellegrino. Il poeta avrebbe perciò adoperato la precisa similitudine dello specchio perpendicolare solo in funzione di una sua negazione, e per introdurre un concetto diverso: quello di uno specchio inclinato, di una rifrazione mediata, di una trasmissione della luce che non si consuma tra due estremi perfettamente paralleli, ma tra tre vertici non allineati.
+
+Vorrei esplorare due diverse implicazioni possibili in questa scelta. Mi domando, da un lato, come questa esperienza indiretta della luce celeste possa ricondursi alla nozione di "tropo" o "enigma" che Dante riprende da Agostino: come, perciò, l'inclinazione dello specchio potrebbe coincidere con la _transumptio_ stilisticamente centrale nella poesia della _Vita Nuova_ e della terza cantica. Dall'altro, anche attraverso la nozione di _ars pingendi_ con cui si suole indicare il modo tipico dell'_ornatus difficilis_ proprio del tragico, desidererei esplorare le possibili relazioni tra questa terza prospettiva, sempre obliqua e mediata, e la sperimentazione giottesca sul punto di vista che Dante ebbe modo di conoscere a Padova nel 1306. Com'è noto, è a questa stessa ricerca pittorica che Dante paragona, nel canto XI del _Purgatorio_, la riflessione sulla "gloria de la lingua" che unisce il proprio operato a quello di Guinizzelli e Cavalcanti.

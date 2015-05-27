@@ -168,4 +168,3 @@
 - La nozione di _transumere_ come trasferimento da ciò che è __detto__ (volgare, terreno, umano) a ciò che è __intelletto__ (divino, eterno).
 
 > La poesia fu il luogo dove la cultura occidentale, cioè l'intelligentia europea, pose il chiuso e il difficile come canone di bellezza che andava, dunque, decifrato.
-
