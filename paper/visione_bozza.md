@@ -6,7 +6,9 @@
 
 1. La terza e più importante innovazione di _Egerton 943_, in effetti, coincide con la stessa presenza di una serie di illustrazioni poste ad accompagnamento del _Paradiso_. A detta di Brieger essa è la più antica a noi pervenuta: nessun artista prima di questo, almeno per quanto ci sia possibile sapere, si sarebbe cimentato con la materia visionaria su cui si fonda la sezione conclusiva del poema. Il risultato di questo primo approccio è ancora oggi sorprendente nella sua inventiva. Come si è accennato, Dante e Beatrice sono quasi sempre colti nella medesima attitudine, se non addirittura nel medesimo ambiente, almeno in apparenza: li vediamo inizialmente a sinistra dei cerchi celesti, in una sorta di cavità frastagliata, anch'essa azzurra, che potrebbe forse indicare la presenza di nubi o di acqua; nei cerchi concentrici, immancabilmente, compaiono gli attori o i temi di ciascun episodio - i volti, sempre riconoscibili, dei beati, o i corpi astrali descritti o discussi dai versi. Non manca, tuttavia, un'evoluzione nel trattamento di questi soggetti: negli episodi che precedono l'introduzione di Giustiniano, dal primo al sesto canto, Beatrice si frappone tra Dante e i cerchi celesti; dopo il discorso dell'imperatore la loro posizione si inverte (cfr figg. 7), e il poeta pare dotato di maggiore autonomia durante le sue succesive interazioni con le anime. Inoltre, come si è già accennato, dopo la salita della scala d'oro, nel cielo di Saturno, i due protagonisti si trovano all'interno, e non più all'esterno, dei cerchi; questa transizione è anche accompagnata dalla scomparsa della cavità frastagliata, da questo momento sostituita da una vaga superficie dorata, quasi a indicare la crescente soprasensibilità del contesto (cfr. figg. 5 e 6). Tutti questi dettagli contribuiscono a suggerire la nozione che, nonostante la configurazione della cantica possa apparire rigida e ripetitiva, in questa stessa ripetizione si cela un costante progresso: quello di Dante, e del lettore, nella comprensione e nella contemplazione della verità divina - la _paideia_ che prepara la sua ascesa verso l'Empireo.
 
-1. Ma l'ascesa è proprio l'elemento poetico di cui maggiormente si avverte l'assenza nelle miniature di _Egerton 943_. Come la gran parte dei suoi successori, l'artista decide di non raffigurare dinamicamente il processo di graduale avvicinamento del protagonista verso la propria patria celeste; al contrario, tutto ciò che queste pagine ci offrono è una statica collezione di istantanee, per mezzo delle quali possiamo a fatica intuire la presenza di un movimento, e tuttavia senza che ci sia mai concesso di percepirlo direttamente. Benché, come si è detto, l'apparente invarianza nella descrizione degli sfondi sia una caratteristica dell'intero ciclo, le miniature preparate per l'_Inferno_ e, soprattutto, per il _Purgatorio_ paiono guidate da un più esplicito tentativo di catturare la viva gestualità del pellegrino e di Virgilio nel loro procedere attraverso uno spazio fisico; un indizio eloquente di questa aspirazione è, per esempio, il successivo spostamento dei due personaggi da sinistra a destra (cfr. figg. 4 e 8), immediata indicazione grafica di un avanzamento orizzontale coincidente col senso di lettura. Con l'esclusione dell'episodio della scala d'oro, su cui Dante è raffigurato per un istante all'inizio della salita, nel _Paradiso_ non accade nulla di analogo; il moto verticale del poeta e della sua guida non è mai riprodotto dall'artista. Si confrontino, come modello, le due immagini che aprono la cantica: la prima, collocata tra i versi 48 e 49, pare presentare le due figure sulla sommità del Purgatorio, mentre Beatrice, osservata da Dante, mantiene gli occhi fermi nel centro del sole (fig. 9); la seconda, collocata invece tra i versi 99 e 100, li vede già impegnati nella lezione teologica che avviene nel cielo della Luna, quando la donna illustra i fondamenti razionali e spirituali dell'ascensione attraverso le sfere celesti (fig. 10). Ma proprio questa ascensione non è, appunto, affatto raffigurata: tra le due circostanze troviamo invece un intervallo tale da produrre l'illusione che sia stato il cielo a mutare, e non l'ubicazione dei personaggi. Anziché concentrarsi sui cinquanta versi che costituiscono il cuore narrativo del canto, l'ascesa di Dante, il miniatore ne rappresenta soltanto l'inizio e la conclusione, equiparando quest'azione fondante a una lacuna visuale.
+1. Ma l'ascesa è proprio l'elemento poetico di cui maggiormente si avverte l'assenza nelle miniature di _Egerton 943_. Come la gran parte dei suoi successori, l'artista decide di non raffigurare dinamicamente il processo di graduale avvicinamento del protagonista verso la propria patria celeste; al contrario, tutto ciò che queste pagine ci offrono è una statica collezione di istantanee, per mezzo delle quali possiamo a fatica inferire la presenza di un movimento, e tuttavia senza che ci sia mai concesso di percepirlo direttamente. Benché, come si è detto, l'apparente invarianza nella descrizione degli sfondi sia una caratteristica dell'intero ciclo, le miniature preparate per l'_Inferno_ e, soprattutto, per il _Purgatorio_ paiono guidate da un più esplicito tentativo di catturare la viva gestualità del pellegrino e di Virgilio nel loro procedere attraverso uno spazio fisico; un indizio eloquente di questa aspirazione è, per esempio, il successivo spostamento dei due personaggi da sinistra a destra (cfr. figg. 4 e 8), immediata indicazione grafica di un avanzamento orizzontale coincidente col senso di lettura. Nel _Paradiso_ non accade nulla di analogo; fatta eccezione per l'episodio della scala d'oro, su cui Dante è raffigurato per un istante all'inizio della salita, il moto verticale del poeta e della sua guida non è mai riprodotto dall'artista. Si confrontino, come modello, le due immagini che aprono la cantica: la prima, collocata tra i versi 48 e 49, pare presentare le due figure sulla sommità del Purgatorio, mentre Beatrice, osservata da Dante, mantiene gli occhi fermi nel centro del sole (fig. 9); la seconda, collocata invece tra i versi 99 e 100, li vede già impegnati nella lezione teologica che avviene nel cielo della Luna, quando la donna illustra i fondamenti razionali e spirituali dell'ascensione attraverso le sfere celesti (fig. 10). Ma proprio questa ascensione non è, appunto, affatto raffigurata: tra le due circostanze troviamo invece un intervallo tale da produrre l'illusione che sia stato il cielo a mutare, e non l'ubicazione dei personaggi. Anziché concentrarsi sui cinquanta versi che costituiscono il cuore narrativo del canto, l'ascesa di Dante, il miniatore ne rappresenta soltanto l'inizio e la conclusione, equiparando quest'azione fondante a una lacuna visuale.
+
+1. L'ascensione del poeta in questi versi è, in effetti, un'azione ben più articolata rispetto a quanto si possa intuire dalle due miniature, complessità che provoca di fatto un'inaspettata ambiguità nel sistema di corrispondenze tra testo e illustrazione. Possiamo suddividere la sezione delimitata dalla coppia di immagini (vv. 49-100) in tre sequenze principali: nella prima (vv. 49-63), Dante, dopo aver osservato il modo in cui Beatrice mantiene gli occhi fermi nel cerchio del sole, ne imita il gesto, tollerando l'intensità luminosa dell'astro per un lasso di tempo superiore a quanto sia abitualmente concesso all'essere umano, ma in ogni caso limitato; nella seconda (vv. 64-84), Dante sposta invece il suo sguardo su Beatrice, la quale continua a fissare il sole, indisturbata; nella terza (vv. 85-99), Beatrice risolve il primo dubbio del pellegrino, riguardante la fulminea velocità del loro spostamento attraverso i cieli. Al principio del canto successivo scopriamo che i due non interrompono mai questo rapido movimento verticale, in una continuità espressa dal valore durativo dell'imperfetto "cen portava," al verso 22; ma ai fini di questa analisi, dedicata al primo canto, possiamo limitarci a considerare questa prima ascensione come un atto concluso, diretto dalla sommità del Purgatorio al cielo del sole (o alla sfera del fuoco, secondo alcuni commentatori). [__-->__ Ricapitolazione dei tre momenti con riferimento all'ambigua immagine di Beatrice; riferimento ad Akbari - modello per l'intera cantica, basata sulla riflessione. Ma forse Akbari merita un paragrafo a sé.]
 
 - - -
 
@@ -67,15 +69,14 @@
 
 - - -
 
+49
+
 > E sì come secondo raggio suole  
 > uscir del primo e risalire in suso,  
 > pur come pelegrin che tornar vuole,  
 > così de l'atto suo, per li occhi infuso  
 > ne l'imagine mia, il mio si fece,  
 > e fissi li occhi al sole oltre nostr'uso.  
-
-- - -
-
 > Molto è licito là, che qui non lece  
 > a le nostre virtù, mercé del loco  
 > fatto per proprio de l'umana spece.  
@@ -85,6 +86,9 @@
 > e di sùbito parve giorno a giorno  
 > essere aggiunto, come quei che puote  
 > avesse il ciel d'ul altro sole addorno.  
+
+- - -
+
 > Beatrice tutta ne l'etterne rote  
 > fissa con li occhi stava; e io in lei  
 > le luci fissi, di là sù rimote.  
@@ -106,9 +110,13 @@
 > La novità del suono e 'l grande lume  
 > di lor cagion m'accesero un disio  
 > mai non sentito di cotanto acume.  
+
+- - -
+
 > Ond'ella, che vedea me sì com'io,  
 > a quïetarmi l'animo commosso,  
 > pria ch'io a dimandar, la bocca aprio  
+
 > (43-87)
 
 1. La modalità di questa transizione è complessa, e modella l'intera ascensione attraverso il Paradiso, come ha illustrato _Akbari_ nel suo saggio su _Visione e Allegoria_. Possiamo riassumerla in tre momenti fondamentali: quello rappresentato qui, in cui Dante osserva Beatrice, la quale a sua volta osserva il sole; un momento successivo, nel quale Dante cerca di imitare il comportamento di Beatrice, senza poter però sostenere la visione abbagliante dell'astro; e infine un momento di grande complessità strutturale, in cui Dante pare osservare Beatrice la quale, a sua volta, risponde allo sguardo di Dante e, al tempo stesso, mantiene i propri occhi fissi nel sole. Questo è, appunto, il modo in cui nella cantica avviene l'ascensione di volta in volta - imitazione, abbaglio, ascensione. [In questo lavoro, cercheremo di analizzare le implicazioni di ciascuno di questi passaggi.] Perché, dunque, l'illustratore ha deciso di concentrarsi solo sul primo momento, quello in cui Beatrice osserva il sole?
