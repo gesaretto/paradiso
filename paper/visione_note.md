@@ -85,7 +85,7 @@
 
 - - -
 
--__Freccero__:
+- __Freccero__:
 
 	- vicinanza del testo dantesco al puro silenzio, all'ineffabile; __la poesia non può mai tacere__ (la poesia non può esprimere il silenzio). L'introduzione al Paradiso (pp. 212 and ff.) riguarda tutta l'idea di __white on white__; l'assunto è che __white on white__ sarebbe puro silenzio (una pagina bianca).
 
@@ -164,6 +164,8 @@
 > "cadendo il raggio perpendicolarmente o obliquamente al piano di riflessione" (Petrocchi, 62) 
 
 > Dante usa la similitudine del raggio che, cadendo a perpendicolo, ne genera un secondo che torna esattamente al punto di partenza. Ora facciamo attenzione che, se il paragone fosse inteso soltanto a spiegare il ripetersi dell'atto di Dante da quello di Beatrice, esso sarebbe quantitativamente eccedente, non potendosdi riscontrare nella dipendenza che corre tra i due atti qualcosa che corrisponda al ritornare di un raggio riflesso al corpo luminoso dalla superficie lucida sulla quale è caduto. Il paragone infatti sembra anche indicare la precisa struttura dell'atto di Beatrice, per suggerire che proprio nel modo medesimo s'è ripetuto anche quello di Dante. Si tratta insomma di un gesto mimetico, e perché esso si avveri bisogna che l'«atto» generante sia ben «infuso per li occhi»: ciò che Dante dichiara avvenuto usando il paragone del raggio riflesso.
+
+- Commento:
 
 	- Questa potrebbe essere un'altra piccola sezione del nostro lavoro - riguardo all'imitazione di Dante rispetto a Beatrice, alla _mimesis_ che è momento sostanziale anche della _paideia_ del Paradiso.
 
