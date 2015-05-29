@@ -1,3 +1,9 @@
+---
+title: 'La Poetica dell'Abbaglio: Un Approccio all'Ascensione di Paradiso I'
+author: G. E. Saretto
+date: 30 Maggio 2015
+bibliography: visione.bib
+---
 1. [Introduzione]
 
 1. Conservato nella British Library di Londra, il codice _Egerton 943_ è tra i primi manoscritti illuminati contenenti la _Commedia_ di Dante. In esso i versi del poema sono solitamente posizionati al centro di ogni pagina, e la loro successione è scandita dall'alternanza di indicatori rossi e blu, posti a sinistra di ciascuna terzina; ai margini del testo principale troviamo una serie di succinte glosse in latino, per lo più parafrasi puntuali, o chiarimenti riguardo ai personaggi o agli autori citati dallo scrittore fiorentino. Il commento più prezioso contenuto in questo artefatto, tuttavia, è forse costituito dalle 261 miniature che accompagnano l'intero viaggio del poeta nell'aldilà, dal principio di quello che, apparentemente, il miniatore o il suo glossatore consideravano un sogno (la prima immagine accosta Dante addormentato, sulla sinistra, a Dante nel mezzo del suo "cammino," sulla destra - fig. 1), alla contemplazione divina che conclude il poema, qui associata alla tradizionale icona del Cristo _Pantocrator_ (fig. 2). Nel loro ampio catalogo di _Illuminated Manuscripts of the Divine Comedy_, pubblicato nel 1969, gli storici dell'arte Peter Brieger e Millard Meiss attribuiscono _Egerton 943_ a uno _scriptorium_ padovano o emiliano; la datazione che propongono è attorno al secondo quarto del quattordicesimo secolo, ossia durante i trent'anni successivi al completamento del poema. Queste illustrazioni, perciò, sono assimilabili alle prime esegesi di un'opera che ancora era priva di un'esposizione ermeneutica di riferimento, coerente, riconosciuta e, in qualche modo, stabile (se mai essa sia esistita). Come il resto dei suoi contemporanei, l'artista a cui fu assegnato il compito di dare forma a queste immagini dovette, innanzitutto, comprendere e riproporre al proprio pubblico un testo poetico nuovo - offrendo così, anch'egli, una sua originale interpretazione.
@@ -16,27 +22,30 @@
 
 I momenti citati paiono in realtà eterogenei. Il primo episodio, a cui ritorneremo in seguito, precede l'esposizione teologica con cui si apre il quinto canto, ed è indicativo di un'esperienza intellettuale, spirituale, amorosa, tanto intensa da provocare un temporaneo smarrimento: "Beatrice mi guardò con gli occhi pieni | di faville d'amor così divini, | che, vinta, mia virtute diè le reni, | e quasi mi perdei con li occhi chini" (IV.139-142). Il secondo e il terzo si riferiscono all'anima di Cacciaguida, paragonato prima a uno "specchio d'oro" in cui si rifletta "raggio di sole" (XVII.123), poi a uno "specchio beato" (XVIII.2); il quarto coincide col modo in cui Cunizza allude ai Troni del settimo cielo, chiamandoli, di nuovo, "specchi" (IX.61). Una vera e propria ascensione è assente da questi esempi. Esiste tuttavia un modo per cui la scena del primo canto, di cui ci stiamo occupando, potrebbe rispondere al modello di riflessione proposto da Akbari; come Dante espone nel _Convivio_ (III.9), la pupilla umana è capace di trasmettere l'aspetto delle "cose visibili" al cervello in quanto, come "vetro terminato con piombo," essa ferma queste forme "quasi come uno specchio" [@Convivio]. Se, diversamente da quel che mostra la miniatura di _Egerton 943_, Dante fosse disposto non di spalle ma di fronte a Beatrice, il "reflected ray" proveniente dall'astro luminoso, riprodotto dagli specchi contenuti negli occhi della donna e assorbito indirettamente da quelli del poeta, potrebbe davvero costituire uno strumento di elevazione, "a kind of rope or ladder" di luce, quale quello suggerito dalla studiosa.
 
-1. Se considerassimo come valida questa ipotesi, l'immagine del manoscritto sarebbe dunque inesatta, riduttiva, o semplicemente parziale, in quanto valida soltanto per la prima fase dell'ascensione. Posto davanti al pellegrino, lo specchio degli occhi di Beatrice dovrebbe essere collocato obliquamente rispetto al suo viso e al disco del sole, formando lungo la sua perpendicolare un simmetrico angolo di incidenza e riflessione, analogo a quello descritto nel quindicesimo canto del _Purgatorio_: "e tanto si diparte | dal cader de la pietra in igual tratta, sì come mostra esperïenza e arte" (XV.16-24). In quella circostanza, salendo il fianco della collina australe nel primo pomeriggio, Dante dovette proteggere i propri occhi dall'intensa "luce rifratta" originata da un messo angelico; come spiega Alessandro Parronchi nella sua analisi de _La perspettiva dantesca_, si tratta di uno dei pochi passaggi, nell'intero poema, a cui la tradizione critica abbia solitamente associato i possibili studi di ottica familiari allo scrittore fiorentino [@Parronchi]. Anche i primi versi del _Paradiso_ potrebbero richiamare precise nozioni scientifiche, tali, però, da contraddire l'interpretazione di Akbari, e la stessa presenza di un "reflected ray seen in Beatrice's eyes." Cominciamo dalla linea che unisce il cerchio del sole alla pupilla della donna; per descriverne l'esattezza, Dante ricorre a una similitudine animale: "aquila sì non li s'affisse unquanco" (I.48). Come riporta una tra le possibili ispirazioni del paragone, il _Tresor_ di Brunetto Latini, il volatile, "li miauz v[e]anz oisel dou monde," era comunemente noto per la facoltà "de garder contre le soleil si forment que ses iauz ne remue goute," e poiché temprava i propri piccoli tenendoli immobili "droite contre les rais dou soleil" [@Tresor I.145.1-2]. L'atto di "affissare" presuppone allora che lo specchio oculare e il disco luminoso siano disposti "droite" uno di fronte all'altro, ossia parallelamente. Se analizziamo poi il modo in cui Dante stesso fisserebbe le proprie "luci" in quelle di Beatrice (I.64-66), affinché il raggio riprodotto da quelle superfici riflettenti possa essere nuovamente assorbito dal suo sguardo, ci imbattiamo in una contraddizione ancora maggiore, determinata da principi presentati dallo stesso autore nel _Convivio_. Glossando la canzone _Voi che 'ntendendo il terzo ciel movete_, Dante espone le motivazioni perspettiche per cui "l'occhio l'altro occhio non può guardare, sì che esso non sia veduto da lui; ché, sì come quello che mira riceve la forma ne la pupilla per retta linea, così per quella medesima linea la sua forma se ne va in quello ch'ello mira" [@Convivio]. In sostanza, la condizione per cui il cerchio di una pupilla possa vedere quello di un'altra pupilla, è che le due superfici siano, di nuovo, disposte parallelamente. Dunque, come abbiamo detto, se il raggio fosse incidente, come quello di _Purgatorio_ XV, lo specchio in fondo agli occhi di Beatrice sarebbe orientato obliquamente rispetto ai due soggetti; al contempo, però, affinché l'osservazione degli occhi di Dante o del disco del sole avvenga nel modo descritto, la donna dovrebbe essere disposta parallelamente sia rispetto all'uno che rispetto all'altro.
+1. Se considerassimo come valida questa ipotesi, l'immagine del manoscritto sarebbe dunque inesatta, riduttiva, o semplicemente parziale, in quanto valida soltanto per la prima fase dell'ascensione. Posto di fronte al pellegrino, e orientato obliquamente rispetto sial al suo viso, sia al disco del sole, lo specchio degli occhi di Beatrice dovrebbe formare lungo la perpendicolare della sua superficie un simmetrico angolo di incidenza e riflessione, analogo a quello descritto nel quindicesimo canto del _Purgatorio_: "e tanto si diparte | dal cader de la pietra in igual tratta, sì come mostra esperïenza e arte" (XV.16-24). In quella circostanza, salendo il fianco della collina australe nel primo pomeriggio, Dante dovette proteggere i propri occhi dall'intensa "luce rifratta" originata da un messo angelico; come spiega Alessandro Parronchi nella sua analisi de _La perspettiva dantesca_, si tratta di uno dei pochi passaggi, nell'intero poema, a cui la tradizione critica abbia solitamente associato i possibili studi di ottica familiari allo scrittore fiorentino [@Parronchi]. Anche i primi versi del _Paradiso_ potrebbero richiamare precise nozioni scientifiche, tali, però, da contraddire l'interpretazione di Akbari, e la stessa presenza di un "reflected ray seen in Beatrice's eyes." Cominciamo dalla linea che unisce il cerchio del sole alla pupilla della donna; per descriverne l'esattezza, Dante ricorre a una similitudine animale: "aquila sì non li s'affisse unquanco" (I.48). Come riporta una tra le possibili ispirazioni del paragone, il _Tresor_ di Brunetto Latini, il volatile, "li miauz v[e]anz oisel dou monde," era comunemente noto per la facoltà "de garder contre le soleil si forment que ses iauz ne remue goute," e poiché temprava i propri piccoli tenendoli immobili "droite contre les rais dou soleil" [@Tresor I.145.1-2, 121-123]. L'atto di "affissare" presuppone allora che lo specchio oculare e il disco luminoso siano disposti "droite" uno di fronte all'altro, ossia parallelamente. Se analizziamo poi il modo in cui Dante stesso fisserebbe le proprie "luci" (I.64-66) in quelle di Beatrice (dettaglio non esplicitato nel testo), affinché il raggio riprodotto da quelle superfici riflettenti possa essere nuovamente assorbito dal suo sguardo, ci imbattiamo in una contraddizione ancora maggiore, determinata da principi presentati dallo stesso autore nel _Convivio_. Glossando la canzone _Voi che 'ntendendo il terzo ciel movete_, Dante espone le motivazioni perspettiche per cui "l'occhio l'altro occhio non può guardare, sì che esso non sia veduto da lui; ché, sì come quello che mira riceve la forma ne la pupilla per retta linea, così per quella medesima linea la sua forma se ne va in quello ch'ello mira" [@Convivio]. In sostanza, la condizione per cui il cerchio di una pupilla possa scorgere quello di un'altra pupilla, è che le due superfici siano, di nuovo, disposte parallelamente. Dunque, come abbiamo detto, se il raggio fosse incidente, come quello di _Purgatorio_ XV, lo specchio in fondo agli occhi di Beatrice sarebbe orientato obliquamente rispetto ai due soggetti; al contempo, però, affinché l'osservazione degli occhi di Dante o del disco del sole avvenga nel modo descritto da questi versi, la donna dovrebbe essere disposta parallelamente sia rispetto all'uno che rispetto all'altro.
 
-affinché le sia possibile guardare gli occhi Dante o il disco del sole, dunque, Beatrice dovrebbe essere disposta parallelamente rispetto a entrambi.
+1. Il dubbio tra orientamento obliquo e orientamento parallelo è complicato dalla complessa similitudine ottica con cui Dante descrive la propria osservazione di Beatrice. Nel manoscritto _Egerton 943_ si tratta del passaggio immediatamente successivo alla prima miniatura, raffigurante l'oggetto della nostra analisi; seguendo la struttura del codice, non appena il lettore avesse terminato di contemplare il corpo della donna, colta a sua volta durante la contemplazione del sole, i versi del poema guiderebbero la sua attenzione verso gli occhi di Dante.
 
-[__-->__ Purg. XV; Parronchi; i commentatori che sostengono sia la stessa cosa - dunque Beatrice guarderebbe negli occhi di Dante; Latini; il Convivio; il riflesso spiegato da Parronchi; ambiguità, abbaglio.] ter
+> E sì come secondo raggio suole  
+> uscir del primo e risalire in suso,  
+> pur come pelegrin che tornar vuole,  
+> così de l'atto suo, per li occhi infuso  
+> ne l'imagine mia, il mio si fece,  
+> e fissi li occhi al sole oltre nostr'uso.
+> (49-54)
+
+Come spiega Parronchi, nel commentare questo passaggio la critica moderna si è allineata con l'esegesi proposta da Akbari e disattesa dall'illustrazione: il "secondo raggio" qui citato sarebbe dunque indicativo, a detta dei lettori novecenteschi e contemporanei, di un altro caso di riflessione incidentale, conforme a quello di _Purgatorio_ XV; questa risalita "in suso" costituirebbe perciò solo una vaga indicazione di un suo generico indirizzamento verso il cielo, fenomeno frequente ma non imprescindibile per una superficie che rifletta la luce dell'astro. Attenendoci a questa interpretazione dovremmo di conseguenza orientare gli specchi negli occhi di Dante, posti di fronte alla donna e al cerchio del sole, obliquamente rispetto a entrambi; fatto che renderebbe più plausibile la successiva generazione di un analogo raggio a partire dalle pupille di Beatrice, anch'esse collocate di fronte al pellegrino e anch'esse orientate obliquamente. Il contributo di Parronchi, tuttavia, ci impedisce di analizzare la circostanza con tale approssimazione: per il critico la coppia di similitudini ottiche fin qui menzionate, questa e quella di _Purgatorio_ XV, alludono a due precisi e distinti brani del _De Perspectiva_ di Ruggero Bacone; questi descriverebbero a loro volta due diverse modalità di riflessione, fatto fondamentale per la nostra analisi. L'unico modo per cui, "come pelegrin," un "secondo raggio" possa "tornar" esattamente all'origine del "primo" da cui esso è "uscito," è che la fonte di luce e la superficie riflettente siano disposte in parallelo, generando quindi due raggi perfettamente perpendicolari: [__inserire citazione!!!__] [@Parronchi 60-63]; il modo in cui questa interpretazione differisce dalla precedente è palese. In conclusione, pertanto, la difficile similitudine che introduce la doppia visione di Dante, diretta verso la donna e verso il sole, contribuisce a intensificare l'ambiguità figurativa dei versi successivi, esemplificata dalla lacuna visuale già individuata nelle miniature di _Egerton 943_.
+
+1. Abbiamo cominciato la nostra discussione del codice trecentesco assimilando l'artista di questo originale ciclo di miniature a uno dei primi esegeti del _Paradiso_; ma si tratta di un'analogia che potremmo estendere ulteriormente, includendo in essa qualsiasi lettore che, come noi stessi nell'ambito di questa analisi, si sforzi di immaginare i luoghi e gli eventi descritti dalla cantica. [ambiguità -> lacuna -> abbaglio]
 
 
 
 - - -
 
-##28 maggio (due giorni alla scadenza)
+##29 maggio (un giorno alla scadenza)
 
 - - -
 
-- Descrivere quanto accade in questi versi nel dettaglio. Complessità e vaghezza.
-
-- Adoperare Akbari per confrontare questo passaggio ad altri analoghi all'interno della cantica; spiegare che per lei esso è il modello dell'intera ascensione attraverso i cieli paradisiaci.
-
-	- Qui abbiamo anche Brunetto Latini.
-
-	- Qui abbiamo anche il passo del _Convivio_
 
 - Adoperare Parronchi per spiegare che Akbari si sbaglia; che l'immagine è invece adeguata; che essa indica _imitazione_. Difficoltà di comprensione. Akbari e l'illuminatore.
 
@@ -50,13 +59,15 @@ affinché le sia possibile guardare gli occhi Dante o il disco del sole, dunque,
 
 		- l'inebriamento mistico;
 
-		- tra fisica e metafisica.
+		- tra fisica e metafisica. __METAFISICA DELLA LUCE__, tra __oggettivo__ e __soggettivo__ - Lindberg su Grosseteste (95-102); luce come esplorazione del limite tra fisica e metafisica; luce primo aspetto del divino che sia dotato di corporeità; luce come primo aspetto conoscibile del divino; come dotata
+
+	- __TRANSIZIONE__: CAVALCANTI
 
 	- Valore intellettuale dell'abbaglio:
 
 		- citazione dalla _Vita Nuova_;
 
-		- Freccero e il bianco su bianco dell'indicibile;
+		- Freccero e il bianco su bianco dell'indicibile; - __SINESTESIA__
 
 		- la grammatica e la visione (esempi dal convivio, Anichini);
 
@@ -67,12 +78,6 @@ affinché le sia possibile guardare gli occhi Dante o il disco del sole, dunque,
 - Illustratore padovano; giotto. Conclusione.
 
 - - -
-
-	- Qui è necessario, in realtà, descrivere __tutte e due le figure__. Sono entrambe belle e significative: ribadiamo, la prima si riferisce alla terzina "Quando Beatrice in sul sinistro fianco / vidi rivolta e riguardar nel sole: / aquila sì non li s'affisse unquanco." 
-
-1. Abbiamo detto, perciò, che questo è uno dei primi manoscritti completamente illustrati prodotti per la Commedia, forse tra i primissimi a contenere una versione del _Paradiso_ - tanto che, possiamo pensare, gli illustratori si debbono essere talvolta trovati in difficoltà a immaginare in che modo raffigurare alcune sequenze. [__Esempi?__] Un esempio è quello di Paradiso I: esso è illustrato in due momenti, nella circostanza in cui Beatrice osserva il sole e nella circostanza in cui Beatrice, rivolta verso Dante, illustra la modalità in cui avverrà l'ascensione durante la cantica. Ma, come sappiamo, il testo dantesco è di gran lunga più complesso; e l'ascensione vera e propria non avviene né in un momento né nell'altro, ma quando Dante si trova in una posizione particolare.
-
-- Inseriamo qui la citazione da Dante.
 
 > Fatto avea di là mane e di qua sera  
 > tal foce, e quasi tutto era là bianco  
@@ -133,14 +138,3 @@ affinché le sia possibile guardare gli occhi Dante o il disco del sole, dunque,
 
 > (43-87)
 
-1. La modalità di questa transizione è complessa, e modella l'intera ascensione attraverso il Paradiso, come ha illustrato _Akbari_ nel suo saggio su _Visione e Allegoria_. Possiamo riassumerla in tre momenti fondamentali: quello rappresentato qui, in cui Dante osserva Beatrice, la quale a sua volta osserva il sole; un momento successivo, nel quale Dante cerca di imitare il comportamento di Beatrice, senza poter però sostenere la visione abbagliante dell'astro; e infine un momento di grande complessità strutturale, in cui Dante pare osservare Beatrice la quale, a sua volta, risponde allo sguardo di Dante e, al tempo stesso, mantiene i propri occhi fissi nel sole. Questo è, appunto, il modo in cui nella cantica avviene l'ascensione di volta in volta - imitazione, abbaglio, ascensione. [In questo lavoro, cercheremo di analizzare le implicazioni di ciascuno di questi passaggi.] Perché, dunque, l'illustratore ha deciso di concentrarsi solo sul primo momento, quello in cui Beatrice osserva il sole?
-
-	- L'illustratore ha deciso di soffermarsi su due momenti _statici_ della narrazione, e in apparenza non i più significativi - Dante fermo da un lato, mentre osserva Beatrice la quale mantiene le proprie pupille fisse nel centro esatto della sfera astrale; e, in seconda battuta, Beatrice che risolve i dubbi di Dante.
-
-	- Ma, va notato, nella seconda immagine Dante e Beatrice si trovano già nel cielo del sole. L'illustratore ha deciso di raffigurare così l'elevazione di Dante. Ma la figura è inesatta.
-
-1. Una possibile proposta è che in realtà l'intera progressione del canto possa essere contenuta nella giustapposizione tra questa prima scena - Dante che osserva Beatrice che a sua volta osserva il sole - e la successiva illustrazione, quella per cui Beatrice e Dante sono colti in un dialogo espositivo. 
-
-	- Adoperare qui una citazione da Brunetto Latini, Tresor I.145.1-2 "
-
-		- Soffermarsi sull'idea di "droit contre les rais dou soleil" e sull'identificazione tra __raggio__ e __sguardo__ già individuata dal Parronchi.
