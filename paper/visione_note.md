@@ -1,5 +1,87 @@
 #Note per "Lo specchio inclinato"
 
+- - -
+
+##29 maggio (un giorno alla scadenza)
+
+- - -
+
+
+- Adoperare Parronchi per spiegare che Akbari si sbaglia; che l'immagine è invece adeguata; che essa indica _imitazione_. Difficoltà di comprensione. Akbari e l'illuminatore.
+
+- Abbaglio come difficoltà di percezione e di comprensione. Abbaglio come premessa alla comprensione. Abbaglio come momento fondativo della _paideia_.
+
+- La tradizione proviene da Alhazen. Sofferenza.
+
+	- Valore fisico dell'abbaglio:
+
+		- il corpo di beatrice;
+
+		- l'inebriamento mistico;
+
+		- tra fisica e metafisica. __METAFISICA DELLA LUCE__, tra __oggettivo__ e __soggettivo__ - Lindberg su Grosseteste (95-102); luce come esplorazione del limite tra fisica e metafisica; luce primo aspetto del divino che sia dotato di corporeità; luce come primo aspetto conoscibile del divino; come dotata
+
+	- __TRANSIZIONE__: CAVALCANTI
+
+	- Valore intellettuale dell'abbaglio:
+
+		- citazione dalla _Vita Nuova_;
+
+		- Freccero e il bianco su bianco dell'indicibile; - __SINESTESIA__
+
+		- la grammatica e la visione (esempi dal convivio, Anichini);
+
+		- l'enigma (articolo);
+
+		- la lode (elevazione cristiana e neoplatonica; _paideia_).
+
+- Illustratore padovano; giotto. Conclusione.
+
+- - -
+
+> e fissi li occhi al sole oltre nostr'uso.  
+> Molto è licito là, che qui non lece  
+> a le nostre virtù, mercé del loco  
+> fatto per proprio de l'umana spece.  
+> Io nol soffersi molto, né sì poco,  
+> ch'io nol vedessi sfavillar dintorno,  
+> com' ferro che bogliente esce del foco;  
+> e di sùbito parve giorno a giorno  
+> essere aggiunto, come quei che puote  
+> avesse il ciel d'ul altro sole addorno.  
+
+- - -
+
+> Beatrice tutta ne l'etterne rote  
+> fissa con li occhi stava; e io in lei  
+> le luci fissi, di là sù rimote.  
+> Nel suo aspetto tal dentro mi fei,  
+> qual si fé Glauco nel gustar de l'erba  
+> che 'l fé consorto in mar de li altri dèi.  
+> Trasumanar significar _per verba_  
+> non si poria; però l'essemplo basti  
+> a cui esperïenza grazia serba.  
+> S'i' era sol di me quel che creasti  
+> novellamente, amor che 'l ciel governi,  
+> tu 'l sai, che col tuo lume mi levasti.  
+> Quando la rota che tu sempiterni  
+> desiderato, a sé mi fece atteso  
+> con l'armonia che temperi e discerni,  
+> parvemi tanto allor del cielo acceso  
+> de la fiamma del sol, che pioggia o fiume  
+> lago non fece alcun tanto disteso.  
+> La novità del suono e 'l grande lume  
+> di lor cagion m'accesero un disio  
+> mai non sentito di cotanto acume.  
+
+- - -
+
+> Ond'ella, che vedea me sì com'io,  
+> a quïetarmi l'animo commosso,  
+> pria ch'io a dimandar, la bocca aprio  
+
+> (43-87)
+
 ##Struttura
 
 1. [__Introduzione__: essenziale per chiarire lo scopo generale, e per precisare che useremo _Egerton Dante_ per fare parafrasi del testo.

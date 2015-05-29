@@ -1,9 +1,9 @@
 ---
-title: 'La Poetica dell'Abbaglio: Un Approccio all'Ascensione di Paradiso I'
+title: 'La Poetica dell'Abbaglio: Immaginare l'Ascensione nel Primo Canto del _Paradiso_'
 author: G. E. Saretto
-date: 30 Maggio 2015
-bibliography: visione.bib
+date: May 30th, 2015
 ---
+
 1. [Introduzione]
 
 1. Conservato nella British Library di Londra, il codice _Egerton 943_ è tra i primi manoscritti illuminati contenenti la _Commedia_ di Dante. In esso i versi del poema sono solitamente posizionati al centro di ogni pagina, e la loro successione è scandita dall'alternanza di indicatori rossi e blu, posti a sinistra di ciascuna terzina; ai margini del testo principale troviamo una serie di succinte glosse in latino, per lo più parafrasi puntuali, o chiarimenti riguardo ai personaggi o agli autori citati dallo scrittore fiorentino. Il commento più prezioso contenuto in questo artefatto, tuttavia, è forse costituito dalle 261 miniature che accompagnano l'intero viaggio del poeta nell'aldilà, dal principio di quello che, apparentemente, il miniatore o il suo glossatore consideravano un sogno (la prima immagine accosta Dante addormentato, sulla sinistra, a Dante nel mezzo del suo "cammino," sulla destra - fig. 1), alla contemplazione divina che conclude il poema, qui associata alla tradizionale icona del Cristo _Pantocrator_ (fig. 2). Nel loro ampio catalogo di _Illuminated Manuscripts of the Divine Comedy_, pubblicato nel 1969, gli storici dell'arte Peter Brieger e Millard Meiss attribuiscono _Egerton 943_ a uno _scriptorium_ padovano o emiliano; la datazione che propongono è attorno al secondo quarto del quattordicesimo secolo, ossia durante i trent'anni successivi al completamento del poema. Queste illustrazioni, perciò, sono assimilabili alle prime esegesi di un'opera che ancora era priva di un'esposizione ermeneutica di riferimento, coerente, riconosciuta e, in qualche modo, stabile (se mai essa sia esistita). Come il resto dei suoi contemporanei, l'artista a cui fu assegnato il compito di dare forma a queste immagini dovette, innanzitutto, comprendere e riproporre al proprio pubblico un testo poetico nuovo - offrendo così, anch'egli, una sua originale interpretazione.
@@ -31,110 +31,21 @@ I momenti citati paiono in realtà eterogenei. Il primo episodio, a cui ritorner
 > pur come pelegrin che tornar vuole,  
 > così de l'atto suo, per li occhi infuso  
 > ne l'imagine mia, il mio si fece,  
-> e fissi li occhi al sole oltre nostr'uso.
-> (49-54)
+> e fissi li occhi al sole oltre nostr'uso.  
+> (I.49-54)  
 
 Come spiega Parronchi, nel commentare questo passaggio la critica moderna si è allineata con l'esegesi proposta da Akbari e disattesa dall'illustrazione: il "secondo raggio" qui citato sarebbe dunque indicativo, a detta dei lettori novecenteschi e contemporanei, di un altro caso di riflessione incidentale, conforme a quello di _Purgatorio_ XV; questa risalita "in suso" costituirebbe perciò solo una vaga indicazione di un suo generico indirizzamento verso il cielo, fenomeno frequente ma non imprescindibile per una superficie che rifletta la luce dell'astro. Attenendoci a questa interpretazione dovremmo di conseguenza orientare gli specchi negli occhi di Dante, posti di fronte alla donna e al cerchio del sole, obliquamente rispetto a entrambi; fatto che renderebbe più plausibile la successiva generazione di un analogo raggio a partire dalle pupille di Beatrice, anch'esse collocate di fronte al pellegrino e anch'esse orientate obliquamente. Il contributo di Parronchi, tuttavia, ci impedisce di analizzare la circostanza con tale approssimazione: per il critico la coppia di similitudini ottiche fin qui menzionate, questa e quella di _Purgatorio_ XV, alludono a due precisi e distinti brani del _De Perspectiva_ di Ruggero Bacone; questi descriverebbero a loro volta due diverse modalità di riflessione, fatto fondamentale per la nostra analisi. L'unico modo per cui, "come pelegrin," un "secondo raggio" possa "tornar" esattamente all'origine del "primo" da cui esso è "uscito," è che la fonte di luce e la superficie riflettente siano disposte in parallelo, generando quindi due raggi perfettamente perpendicolari: [__inserire citazione!!!__] [@Parronchi 60-63]; il modo in cui questa interpretazione differisce dalla precedente è palese. In conclusione, pertanto, la difficile similitudine che introduce la doppia visione di Dante, diretta verso la donna e verso il sole, contribuisce a intensificare l'ambiguità figurativa dei versi successivi, esemplificata dalla lacuna visuale già individuata nelle miniature di _Egerton 943_.
 
-1. Abbiamo cominciato la nostra discussione del codice trecentesco assimilando l'artista di questo originale ciclo di miniature a uno dei primi esegeti del _Paradiso_; ma si tratta di un'analogia che potremmo estendere ulteriormente, includendo in essa qualsiasi lettore che, come noi stessi nell'ambito di questa analisi, si sforzi di immaginare i luoghi e gli eventi descritti dalla cantica. [ambiguità -> lacuna -> abbaglio]
-
-
-
-- - -
-
-##29 maggio (un giorno alla scadenza)
-
-- - -
-
-
-- Adoperare Parronchi per spiegare che Akbari si sbaglia; che l'immagine è invece adeguata; che essa indica _imitazione_. Difficoltà di comprensione. Akbari e l'illuminatore.
-
-- Abbaglio come difficoltà di percezione e di comprensione. Abbaglio come premessa alla comprensione. Abbaglio come momento fondativo della _paideia_.
-
-- La tradizione proviene da Alhazen. Sofferenza.
-
-	- Valore fisico dell'abbaglio:
-
-		- il corpo di beatrice;
-
-		- l'inebriamento mistico;
-
-		- tra fisica e metafisica. __METAFISICA DELLA LUCE__, tra __oggettivo__ e __soggettivo__ - Lindberg su Grosseteste (95-102); luce come esplorazione del limite tra fisica e metafisica; luce primo aspetto del divino che sia dotato di corporeità; luce come primo aspetto conoscibile del divino; come dotata
-
-	- __TRANSIZIONE__: CAVALCANTI
-
-	- Valore intellettuale dell'abbaglio:
-
-		- citazione dalla _Vita Nuova_;
-
-		- Freccero e il bianco su bianco dell'indicibile; - __SINESTESIA__
-
-		- la grammatica e la visione (esempi dal convivio, Anichini);
-
-		- l'enigma (articolo);
-
-		- la lode (elevazione cristiana e neoplatonica; _paideia_).
-
-- Illustratore padovano; giotto. Conclusione.
-
-- - -
+1. Abbiamo cominciato la nostra discussione del codice trecentesco assimilando l'artista di questo originale ciclo di miniature a uno dei primi esegeti del _Paradiso_; ma si tratta di un'analogia che potremmo estendere ulteriormente, includendo in essa qualsiasi lettore che, come noi stessi nell'ambito di questa analisi, eserciti lo sforzo intellettuale necessario a immaginare i luoghi e gli eventi descritti dalla terza cantica. Nella scena che stiamo considerando, il linguaggio adoperato per descrivere la posizione di Beatrice rispetto al sole e al poeta è conciso ed efficace; esso definisce immediatamente il tempo e lo spazio dell'azione, l'attitudine del personaggio, i colori che soffondono l'atmosfera intorno a esso.
 
 > Fatto avea di là mane e di qua sera  
 > tal foce, e quasi tutto era là bianco  
 > quello emisperio, e l'altra parte nera,  
 > quando Beatrice in sul sinistro fianco  
 > vidi rivolta e riguardar nel sole:  
-> aquila sì non li s'affisse unquanco,  
+> aquila sì non li s'affisse unquanco.  
+> (I.43-48)  
 
-- - -
+L'immediatezza della prima terzina è garantita da un sistema di contrasti elementari, atti a situare l'immaginazione del lettore, il suo occhio interiore, in un ambiente ben determinato, e affine a un contesto familiare: così la "Foce" dell'orizzonte australe, il suo levante, è ricondotta a una semplice opposizione tra due deittici spaziali, stabiliti in relazione al pubblico mondano del poema - "di là," in Purgatorio, rispetto a "di qua," sul continente boreale. Attorno a questa facile antitesi si stabiliscono due polarità altrettanto lineari e coerenti: "mane" e "sera," "bianco" e "nera." In questo estremo albore meridiano, il gesto di Beatrice è dei più chiari; ella è "sul sinistro fianco," di nuovo una deissi precisa, e contempla il sole nel modo suggerito dal raffronto con l'aquila, una figura comune, poco erudita, vivida e a suo modo quasi realistica. Se confrontiamo questa descrizione - riprodotta dal miniatore - con quella dei versi successivi appena citati, contenenti la similitudine ottica del "primo" e del "secondo raggio," l'ambiguità concernente la collocazione di Dante pare ancora maggiore. Anziché seguire, come per Beatrice, la presentazione del gesto del personaggio, la figura retorica per lui adoperata precede l'azione, in un'espansione sintattica che posticipa la comparsa del verbo principale, "si fece," fino al quarto verso dedicato al periodo (I.53). Come abbiamo visto, poi, lo stesso paragone perspettico è dotto, astratto e difficile, sia che si riferisca a una generica riflessione incidentale, sia che citi lo specifico brano del _De Perspectiva_ su quella parallela; a esso si aggiunge inoltre un secondo paragone, quello del "pelegrin che tornar vuole" (I.51), incastonato in quello maggiore, quasi come una complicazione supplementare alla nostra capacità di figurazione interiore. L'atto di Dante, infine, è riportato in una forma ellittica e involuta, punteggiata da una serie di allusivi pronomi possessivi: "de l'atto suo, per li occhi infuso | ne l'imagine mia, il mio si fece" (I.52-53). Diviene allora più ragionevole comprendere perché, valutata l'oscurità di questo passaggio e la semplicità di quello precedente, per l'artista del codice, come per il lettore del poema, la facoltà di formare una controparte visiva a questi versi si scontri, in questo punto (tra il verso 48 e il verso 49), con un ostacolo inaspettato. 
 
-49
-
-> E sì come secondo raggio suole  
-> uscir del primo e risalire in suso,  
-> pur come pelegrin che tornar vuole,  
-> così de l'atto suo, per li occhi infuso  
-> ne l'imagine mia, il mio si fece,  
-> e fissi li occhi al sole oltre nostr'uso.  
-> Molto è licito là, che qui non lece  
-> a le nostre virtù, mercé del loco  
-> fatto per proprio de l'umana spece.  
-> Io nol soffersi molto, né sì poco,  
-> ch'io nol vedessi sfavillar dintorno,  
-> com' ferro che bogliente esce del foco;  
-> e di sùbito parve giorno a giorno  
-> essere aggiunto, come quei che puote  
-> avesse il ciel d'ul altro sole addorno.  
-
-- - -
-
-> Beatrice tutta ne l'etterne rote  
-> fissa con li occhi stava; e io in lei  
-> le luci fissi, di là sù rimote.  
-> Nel suo aspetto tal dentro mi fei,  
-> qual si fé Glauco nel gustar de l'erba  
-> che 'l fé consorto in mar de li altri dèi.  
-> Trasumanar significar _per verba_  
-> non si poria; però l'essemplo basti  
-> a cui esperïenza grazia serba.  
-> S'i' era sol di me quel che creasti  
-> novellamente, amor che 'l ciel governi,  
-> tu 'l sai, che col tuo lume mi levasti.  
-> Quando la rota che tu sempiterni  
-> desiderato, a sé mi fece atteso  
-> con l'armonia che temperi e discerni,  
-> parvemi tanto allor del cielo acceso  
-> de la fiamma del sol, che pioggia o fiume  
-> lago non fece alcun tanto disteso.  
-> La novità del suono e 'l grande lume  
-> di lor cagion m'accesero un disio  
-> mai non sentito di cotanto acume.  
-
-- - -
-
-> Ond'ella, che vedea me sì com'io,  
-> a quïetarmi l'animo commosso,  
-> pria ch'io a dimandar, la bocca aprio  
-
-> (43-87)
-
+1. Un visivo ostacolo è anche il tema di queste terzine.
